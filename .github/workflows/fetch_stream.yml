@@ -15,38 +15,36 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.11"
 
       - name: Cache pip
         uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
+          path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: Install system dependencies (Chromium + chromedriver)
+      - name: Install Chromium + Chromedriver
         run: |
           sudo apt-get update -y
-          # Install chromium and chromedriver so a compatible driver is available from PATH
-          sudo apt-get install -y chromium-browser chromium-chromedriver wget gnupg2 ca-certificates unzip
-          # show versions for debugging
-          echo "=== chrome/chromium versions ==="
-          google-chrome --version || true
-          chromium-browser --version || true
+          sudo apt-get install -y chromium chromium-driver
+
+          echo "Chromium version:"
+          chromium --version || true
           chromedriver --version || true
-          # export chromedriver path to GITHUB_ENV so script can pick it up
+
           echo "CHROMEDRIVER_PATH=$(which chromedriver)" >> $GITHUB_ENV
-          echo "BROWSER_PATH=$(which chromium-browser || true)" >> $GITHUB_ENV
 
       - name: Install Python dependencies
         run: |
@@ -54,24 +52,33 @@ jobs:
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           else
-            echo "requirements.txt not found — installing minimal deps"
             pip install selenium webdriver-manager
           fi
 
-      - name: Run Selenium script (🟢CLICK HERE TO VIEW RESULTS)
+      - name: Run Selenium script (🟢 CLICK TO VIEW RESULTS)
         env:
           TARGET_URL: ${{ github.event.inputs.url }}
           MAX_WAIT_SECONDS: ${{ github.event.inputs.max_wait }}
-          # CHROMEDRIVER_PATH set earlier; your script reads this to skip downloads
           CHROMEDRIVER_PATH: ${{ env.CHROMEDRIVER_PATH }}
         run: |
-          echo -e "Running Selenium Script with TARGET_URL=${TARGET_URL} and MAX_WAIT_SECONDS=${MAX_WAIT_SECONDS}"
-          # make sure script is executable if needed
-          ls -l
+          echo "Running with URL=${TARGET_URL}"
+          echo "MAX_WAIT_SECONDS=${MAX_WAIT_SECONDS}"
           python fetch_stream.py 2>&1 | tee fetch_stream_output.txt
 
-      - name: Upload run log as artifact
+      - name: Upload run log
         uses: actions/upload-artifact@v4
         with:
           name: fetch-stream-log
           path: fetch_stream_output.txt
+
+      - name: Commit m3u8.json to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          ls -la
+          git add m3u8.json
+          git status
+
+          git commit -m "auto: update m3u8.json" || echo "No changes to commit"
+          git push
