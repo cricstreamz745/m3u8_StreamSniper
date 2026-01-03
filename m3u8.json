@@ -1,155 +1,176 @@
 {
-  "source": "https://raw.githubusercontent.com/Cricketstan/Fancode-Video/refs/heads/main/output.json",
+  "source": "https://raw.githubusercontent.com/cricstreamz745/Fancode-Video/refs/heads/main/output.json",
   "total_pages": 21,
   "total_m3u8": 21,
   "results": [
     {
       "title": "HIGHLIGHTS16:12Rangpur Riders beat Sylhet Titans by 6 wickets | Match 12",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rangpur-riders-beat-sylhet-titans-by-6-wickets-match-12-206162",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rangpur-riders-beat-sylhet-titans-by-6-wickets-match-12-206162",
+      "image": "https://images.fancode.com/skillup-uploads/glimmr/thumbnails/gfpgan/990ef8db-d545-4f28-9e1f-e632e3a3c66b_16_9.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZ2xpbW1yL3RodW1ibmFpbHMvZ2ZwZ2FuLzk5MGVmOGRiLWQ1NDUtNGYyOC05ZTFmLWU2MzJlM2EzYzY2Yl8xNl85LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767373079/bffec87a-9d33-4898-9ad0-4854a4ac1be1/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS14:18Chattogram Royals beat Dhaka Capitals by 10 wickets | Match 11",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/chattogram-royals-beat-dhaka-capitals-by-10-wickets-match-11-206109",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/chattogram-royals-beat-dhaka-capitals-by-10-wickets-match-11-206109",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/Screenshot-(355).png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1NjcmVlbnNob3QtKDM1NSkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4NSwiaGVpZ2h0IjoxMDV9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767353020/d5c17c0a-4729-4c68-96b5-fbd8d5dea3f2_1767353002434/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS19:27Rajshahi Warriors beat Rangpur Riders by 2 wickets in Super Over | Match 10",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rajshahi-warriors-beat-rangpur-riders-by-2-wickets-in-super-over-match-10-206022",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rajshahi-warriors-beat-rangpur-riders-by-2-wickets-in-super-over-match-10-206022",
+      "image": "https://images.fancode.com/skillup-uploads/glimmr/thumbnails/gfpgan/be241793-6c57-4633-9dcc-4f197b690471_16_9.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZ2xpbW1yL3RodW1ibmFpbHMvZ2ZwZ2FuL2JlMjQxNzkzLTZjNTctNDYzMy05ZGNjLTRmMTk3YjY5MDQ3MV8xNl85LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1767287729/Bangladesh-Premier-League-2025-26---Rangpur-Riders-VS-Rajshahi-Warriors---Match-Highlights/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS21:41Sylhet Titans beat Dhaka Capitals by 6 runs | Match 9",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/sylhet-titans-beat-dhaka-capitals-by-6-runs-match-9-205957",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/sylhet-titans-beat-dhaka-capitals-by-6-runs-match-9-205957",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/MATCH-01-BPL-2026-DHAKA-VS-SYLHET-20-MIN-.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL01BVENILTAxLUJQTC0yMDI2LURIQUtBLVZTLVNZTEhFVC0yMC1NSU4tLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1767285618/MATCH-01-BPL-2026-DHAKA-VS-SYLHET-20-MIN-/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS19:00Rajshahi Warriors beat Noakhali Express by 6 wickets | Match 6",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rajshahi-warriors-beat-noakhali-express-by-6-wickets-match-6-205616",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rajshahi-warriors-beat-noakhali-express-by-6-wickets-match-6-205616",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/bpl1.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL2JwbDEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4NSwiaGVpZ2h0IjoxMDV9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1767039316/bpl-m6/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS19:14Rangpur Riders beat Chattogram Royals by 7 wickets  | Match 5",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rangpur-riders-beat-chattogram-royals-by-7-wickets-match-5-205575",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rangpur-riders-beat-chattogram-royals-by-7-wickets-match-5-205575",
+      "image": "https://images.fancode.com/skillup-uploads/glimmr/thumbnails/gfpgan/63b010b0-d982-4344-afb1-1fa47fa7aba6_16_9.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZ2xpbW1yL3RodW1ibmFpbHMvZ2ZwZ2FuLzYzYjAxMGIwLWQ5ODItNDM0NC1hZmIxLTFmYTQ3ZmE3YWJhNl8xNl85LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1767036073/bpl-m5/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS18:56Dhaka Capitals beat Rajshahi Warriors by 5 wickets | Match 3",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/dhaka-capitals-beat-rajshahi-warriors-by-5-wickets-match-3-205291",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/dhaka-capitals-beat-rajshahi-warriors-by-5-wickets-match-3-205291",
+      "image": "https://images.fancode.com/skillup-uploads/glimmr/thumbnails/gfpgan/fae65e87-7eed-45a7-b87d-be79e03932f3_16_9.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZ2xpbW1yL3RodW1ibmFpbHMvZ2ZwZ2FuL2ZhZTY1ZTg3LTdlZWQtNDVhNy1iODdkLWJlNzllMDM5MzJmM18xNl85LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1766900412/dhakaRajjj/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS22:36Sylhet Titans beat Noakhali Express by 1 wicket | Match 4",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/sylhet-titans-beat-noakhali-express-by-1-wicket-match-4-205341",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/sylhet-titans-beat-noakhali-express-by-1-wicket-match-4-205341",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/sylhetNoakkk.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL3N5bGhldE5vYWtray5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6MTg1LCJoZWlnaHQiOjEwNX0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1766900938/sylhetNoakkk/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS20:42Chattogram Royals beat Noakhali Express by 65 runs | Match 2",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/chattogram-royals-beat-noakhali-express-by-65-runs-match-2-205179",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/chattogram-royals-beat-noakhali-express-by-65-runs-match-2-205179",
+      "image": "https://images.fancode.com/skillup-uploads/glimmr/thumbnails/gfpgan/587dfd2a-0b0d-43ad-b1a9-04096255520a_16_9.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZ2xpbW1yL3RodW1ibmFpbHMvZ2ZwZ2FuLzU4N2RmZDJhLTBiMGQtNDNhZC1iMWE5LTA0MDk2MjU1NTIwYV8xNl85LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1766807681/Match-02-BPL-2026-NOAKHALI-VS-CHATTOGRAM-20-MIN/index.m3u8"
       ]
     },
     {
       "title": "HIGHLIGHTS24:44Rajshahi Warriors beat Sylhet Titans by 8 wickets | Match 1",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rajshahi-warriors-beat-sylhet-titans-by-8-wickets-match-1-205114",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/rajshahi-warriors-beat-sylhet-titans-by-8-wickets-match-1-205114",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/Match-01-BPL-2026-RAJSHAHI-VS-SYLHET-20-MIN.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL01hdGNoLTAxLUJQTC0yMDI2LVJBSlNIQUhJLVZTLVNZTEhFVC0yMC1NSU4ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4NSwiaGVpZ2h0IjoxMDV9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1766806374/Match-01-BPL-2026-RAJSHAHI-VS-SYLHET-20-MIN/index.m3u8"
       ]
     },
     {
       "title": "TOP SPELLS01:13Mustafizur Rahman's 3 for 24 | Match 12",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/mustafizur-rahmans-3-for-24-match-12-206130",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/mustafizur-rahmans-3-for-24-match-12-206130",
+      "image": "https://images.fancode.com/skillup-uploads/glimmr/thumbnails/gfpgan/86b3e6c9-b363-4195-9af3-3d62f841d610_16_9.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZ2xpbW1yL3RodW1ibmFpbHMvZ2ZwZ2FuLzg2YjNlNmM5LWIzNjMtNDE5NS05YWYzLTNkNjJmODQxZDYxMF8xNl85LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767365847/44b8d64d-7c8d-4002-88b7-bc36f3c2d6fd/index.m3u8"
       ]
     },
     {
       "title": "TOP MOMENT00:484464! Mahmudullah slams Miraz all over the park in Sylhet",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/4464-mahmudullah-slams-miraz-all-over-the-park-in-sylhet-206157",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/4464-mahmudullah-slams-miraz-all-over-the-park-in-sylhet-206157",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/Mahmadullah.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL01haG1hZHVsbGFoLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767371531/824e7fad-fae1-4ecd-bb68-3e5f0831f47a/index.m3u8"
       ]
     },
     {
       "title": "TOP SPELLS01:15Faheem Ashraf's 3 for 18 | Match 12",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/faheem-ashrafs-3-for-18-match-12-206131",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/faheem-ashrafs-3-for-18-match-12-206131",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/Screenshot-(359).png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1NjcmVlbnNob3QtKDM1OSkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4NSwiaGVpZ2h0IjoxMDV9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767365886/04d1dfa7-e5e0-44aa-85f3-06d8096fa4a8/index.m3u8"
       ]
     },
     {
       "title": "TOP MOMENT00:38Too Quick! Adam Rossington snaps up Shamim Hossain",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/too-quick-adam-rossington-snaps-up-shamim-hossain-206111",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/too-quick-adam-rossington-snaps-up-shamim-hossain-206111",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/ar_1767358857064.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL2FyXzE3NjczNTg4NTcwNjQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4NSwiaGVpZ2h0IjoxMDV9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767355905/9f5e55c5-7e44-4a0d-bf2f-58e8de8473b4/index.m3u8"
       ]
     },
     {
       "title": "TOP MOMENT00:43EXQUISITE! Litton Das dazzles with a stunning catch",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/exquisite-litton-das-dazzles-with-a-stunning-catch-205978",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/exquisite-litton-das-dazzles-with-a-stunning-catch-205978",
+      "image": "https://images.fancode.com/skillup-uploads/glimmr/thumbnails/gfpgan/e8a53dfe-5cdf-4bcc-b193-8245d1f34c03_16_9.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZ2xpbW1yL3RodW1ibmFpbHMvZ2ZwZ2FuL2U4YTUzZGZlLTVjZGYtNGJjYy1iMTkzLTgyNDVkMWYzNGMwM18xNl85LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767277492/d055e34c-d50b-4723-aa38-ff9c55817b02/index.m3u8"
       ]
     },
     {
       "title": "TOP KNOCKS02:02Mohammad Naim's 54* off 40 | Match 11",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/mohammad-naims-54-off-40-match-11-206106",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/mohammad-naims-54-off-40-match-11-206106",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/Screenshot-2026-01-02-165837.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1NjcmVlbnNob3QtMjAyNi0wMS0wMi0xNjU4MzcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4NSwiaGVpZ2h0IjoxMDV9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767352562/d1c9083b-ebb5-4929-b2d0-c61812d28234/index.m3u8"
       ]
     },
     {
       "title": "TOP KNOCKS02:46Adam Rossington's 60* off 36 | Match 11",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/adam-rossingtons-60-off-36-match-11-206107",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/adam-rossingtons-60-off-36-match-11-206107",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/Screenshot-2026-01-02-165314.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1NjcmVlbnNob3QtMjAyNi0wMS0wMi0xNjUzMTQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4NSwiaGVpZ2h0IjoxMDV9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767352571/7df2eb9d-cce7-476f-9059-004d0e5fc3b0/index.m3u8"
       ]
     },
     {
       "title": "TOP SPELLS01:40Tanvir Islam's 3 for 8 | Match 11",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/tanvir-islams-3-for-8-match-11-206096",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/tanvir-islams-3-for-8-match-11-206096",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/TIslam.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1RJc2xhbS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6MTg1LCJoZWlnaHQiOjEwNX0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767348208/a57751f3-2128-4f8d-b130-2dc8ae6645c6/index.m3u8"
       ]
     },
     {
       "title": "TOP SPELLS01:12Shoriful Islam's 3 for 18 | Match 11",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/shoriful-islams-3-for-18-match-11-206097",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/shoriful-islams-3-for-18-match-11-206097",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/ShoriIslam21.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1Nob3JpSXNsYW0yMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6MTg1LCJoZWlnaHQiOjEwNX0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767348253/c2e58c82-a2f3-47e0-badc-fd61ee725495/index.m3u8"
       ]
     },
     {
       "title": "TOP KNOCKS02:04Dawid Malan's 63* off 50 | Match 10",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/dawid-malans-63-off-50-match-10-206020",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/dawid-malans-63-off-50-match-10-206020",
+      "image": "https://images.fancode.com/skillup-uploads/glimmr/thumbnails/gfpgan/b92826d9-e19b-4ef8-bca9-3b4558e1ce0a_16_9.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvZ2xpbW1yL3RodW1ibmFpbHMvZ2ZwZ2FuL2I5MjgyNmQ5LWUxOWItNGVmOC1iY2E5LTNiNDU1OGUxY2UwYV8xNl85LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsIndpZHRoIjoxODUsImhlaWdodCI6MTA1fSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1767285917/12f89f2c-0410-4380-a946-d45aa5eeea0b/index.m3u8"
       ]
     },
     {
       "title": "PREVIEW00:30Bangladesh Premier League 2025-26: Live on FanCode!",
-      "page_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/bangladesh-premier-league-202526-live-on-fancode-205076",
+      "target_url": "https://www.fancode.com/cricket/tour/bangladesh-premier-league-202526-19256675/video-highlights/bangladesh-premier-league-202526-live-on-fancode-205076",
+      "image": "https://images.fancode.com/skillup-uploads/cms-media/BPL202526.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0JQTDIwMjUyNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6MTg1LCJoZWlnaHQiOjEwNX0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
       "m3u8": [
         "https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1766733399/BPL_16_9/index.m3u8"
       ]
     }
   ],
-  "timestamp": 1767408385
+  "timestamp": 1767410531
 }
