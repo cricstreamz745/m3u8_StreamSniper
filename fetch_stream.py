@@ -14,7 +14,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
-SOURCE_JSON = "https://raw.githubusercontent.com/Cricketstan/Fancode-Video/refs/heads/main/output.json"
+SOURCE_JSON = "https://raw.githubusercontent.com/cricstreamz745/Fancode-Video/refs/heads/main/output.json"
 OUTPUT_FILE = "m3u8.json"
 
 M3U8_RE = re.compile(r'https?://[^\'"\s>]+\.m3u8[^\'"\s>]*', re.I)
