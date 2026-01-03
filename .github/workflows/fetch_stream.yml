@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: "The URL to scrape for m3u8 links (override default)"
-        required: true
-        default: "https://news.abplive.com/live-tv"
+        description: "Optional (ignored – script auto-fetches FanCode JSON)"
+        required: false
+        default: ""
       max_wait:
-        description: "Max seconds the script should wait for m3u8 (optional)"
+        description: "Max seconds the script should wait for m3u8"
         required: false
         default: "15"
 
@@ -52,16 +52,15 @@ jobs:
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           else
-            pip install selenium webdriver-manager
+            pip install selenium webdriver-manager requests
           fi
 
       - name: Run Selenium script (🟢 CLICK TO VIEW RESULTS)
         env:
-          TARGET_URL: ${{ github.event.inputs.url }}
           MAX_WAIT_SECONDS: ${{ github.event.inputs.max_wait }}
           CHROMEDRIVER_PATH: ${{ env.CHROMEDRIVER_PATH }}
         run: |
-          echo "Running with URL=${TARGET_URL}"
+          echo "Running bulk FanCode scraper"
           echo "MAX_WAIT_SECONDS=${MAX_WAIT_SECONDS}"
           python fetch_stream.py 2>&1 | tee fetch_stream_output.txt
 
@@ -76,7 +75,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          ls -la
           git add m3u8.json
           git status
 
