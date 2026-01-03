@@ -86,6 +86,7 @@ def main():
         for i, item in enumerate(highlights, 1):
             title = item.get("title")
             page_url = item.get("link")
+            image = item.get("thumbnail")
 
             print(f"[{i}/{len(highlights)}] Scraping: {title}")
             m3u8 = scrape_page(driver, page_url)
@@ -94,7 +95,8 @@ def main():
 
             results.append({
                 "title": title,
-                "page_url": page_url,
+                "target_url": page_url,
+                "image": image,
                 "m3u8": m3u8
             })
 
