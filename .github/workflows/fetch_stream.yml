@@ -1,6 +1,8 @@
 name: Fetch Stream URL
 
 on:
+  schedule:
+    - cron: "*/7 * * * *"   # Runs every 7 minutes
   workflow_dispatch:
     inputs:
       url:
