@@ -1,7 +1,7 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Willow/refs/heads/main/output.json",
   "total_pages": 14,
-  "total_m3u8": 17,
+  "total_m3u8": 12,
   "results": [
     {
       "title": "VIDEOS",
@@ -14,7 +14,8 @@
       "target_url": "https://www.willow.tv/videos/nasum-ahmed-spell-ran-vs-dc-streaming-online-match-13-bangladesh-premier-league-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/13342_Nasum_Ahmed_Spell.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160wop/warchives_tr/Bangladesh_Premier_League_2025_26/13342/Highlights/13342_Nasum_Ahmed_Spell/master.m3u8?e=1767653427&h=4a24a7a2605fdb91cdcef99908c8a0b0&content_id=375341&_sid=3ef6f879d39d332665083163477a95026ca71c6113c065e623db19ef857adfe8&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160wop/warchives_tr/Bangladesh_Premier_League_2025_26/13342/Highlights/13342_Nasum_Ahmed_Spell/5000k/HLS/13342_Nasum_Ahmed_Spell_5000k.m3u8",
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160wop/warchives_tr/Bangladesh_Premier_League_2025_26/13342/Highlights/13342_Nasum_Ahmed_Spell/master.m3u8?e=1767654054&h=12b708509d89c23b9a958d541608db39&content_id=375341&_sid=aec89323c1c8bb43d9fbb83906b804de7f9fb4f120cd85322e707e7de2eca40e&device_type=web"
       ]
     },
     {
@@ -28,7 +29,8 @@
       "target_url": "https://www.willow.tv/videos/david-warner-six-syt-vs-hbh-streaming-online-match-21-big-bash-league-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/12629_David_Warner_Six.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160wop/warchives_tr/Big_Bash_League_2025_26/12629/Highlights/12629_David_Warner_Six/master.m3u8?e=1767653483&h=4d991549ac6cffd2f106b0810b94e9a4&content_id=374976&_sid=0f4a411653f7067ebc678ce0a31026e7c3d499e2738fa769249bd2b8f182f5f9&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160wop/warchives_tr/Big_Bash_League_2025_26/12629/Highlights/12629_David_Warner_Six/5000k/HLS/12629_David_Warner_Six_5000k.m3u8",
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160wop/warchives_tr/Big_Bash_League_2025_26/12629/Highlights/12629_David_Warner_Six/master.m3u8?e=1767654081&h=6a7d83c8d16612789499c4e543ce60f1&content_id=374976&_sid=cc72b819ea8892566e30f615df7b97b6eb09d9fcb79daa67e4c3c3260c7a1ab3&device_type=web"
       ]
     },
     {
@@ -48,7 +50,7 @@
       "target_url": "https://www.willow.tv/videos/69-1:-beau-webster-to-jamie-smith-4-runs-s-aus-vs-eng-streaming-online-5th-test-the-ashes-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/1039/12687/BB/418.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/418.mp4/playlist.m3u8?e=1767653532&h=3982ff6df7ed47eb26f5f381497986c5&content_id=375283&_sid=b7b2134aabed30e8bc5c62f0def033c161d155660339772837259d21c8adc107&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/418.mp4/playlist.m3u8?e=1767654130&h=5cb5352746425365a1402d33a8903184&content_id=375283&_sid=3dcb6738a5e5314637b1f8cf3a77737057a21772f1e70121ccd9c0cc4441f4eb&device_type=web"
       ]
     },
     {
@@ -56,8 +58,7 @@
       "target_url": "https://www.willow.tv/videos/65-2:-michael-neser-to-joe-root-4-runs-s-aus-vs-eng-streaming-online-5th-test-the-ashes-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/1039/12687/BB/395.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/395.mp4/chunklist.m3u8?e=1767653535&h=17f762d530cbc011290305b49d4ebf82&content_id=375282&_sid=63f4941ff218873fe6eb3126eac0dc4b8e4ba4cb026cd526baaaa13438945dd5&device_type=web",
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/395.mp4/playlist.m3u8?e=1767653535&h=17f762d530cbc011290305b49d4ebf82&content_id=375282&_sid=63f4941ff218873fe6eb3126eac0dc4b8e4ba4cb026cd526baaaa13438945dd5&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/395.mp4/playlist.m3u8?e=1767654133&h=d164521e4f40b74db5d54d62d9cd295d&content_id=375282&_sid=097e527a895fe7522ffebaf53c37b80d6de0bbc41ebff86326b2667abcad146a&device_type=web"
       ]
     },
     {
@@ -65,8 +66,7 @@
       "target_url": "https://www.willow.tv/videos/62-1:-cameron-green-to-jamie-smith-no-ball-1-runs-s-aus-vs-eng-streaming-online-5th-test-the-ashes-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/1039/12687/BB/375.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/375.mp4/chunklist.m3u8?e=1767653538&h=881a07672be59b5543a09709fc87e8f4&content_id=375281&_sid=a262b662ba9a94a7454e6f342656295c50c0cf4b8d33d32775e4c7a133b16e48&device_type=web",
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/375.mp4/playlist.m3u8?e=1767653538&h=881a07672be59b5543a09709fc87e8f4&content_id=375281&_sid=a262b662ba9a94a7454e6f342656295c50c0cf4b8d33d32775e4c7a133b16e48&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/375.mp4/playlist.m3u8?e=1767654136&h=b269bb312877e65032084e18541a5d56&content_id=375281&_sid=a8cc4b1190f184543c40cdfda33463eb3281afce3a605f8ebe329997ce956361&device_type=web"
       ]
     },
     {
@@ -74,8 +74,7 @@
       "target_url": "https://www.willow.tv/videos/64-6:-cameron-green-to-jamie-smith-4-runs-s-aus-vs-eng-streaming-online-5th-test-the-ashes-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/1039/12687/BB/393.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/393.mp4/chunklist.m3u8?e=1767653541&h=b8cea28640b8ef2eee08d1816ad25966&content_id=375280&_sid=8aa4774ddf59ad5e2e98f9ee4a1cadf1607f27ae9998e9b5234aaaeb7a3ef8a2&device_type=web",
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/393.mp4/playlist.m3u8?e=1767653541&h=b8cea28640b8ef2eee08d1816ad25966&content_id=375280&_sid=8aa4774ddf59ad5e2e98f9ee4a1cadf1607f27ae9998e9b5234aaaeb7a3ef8a2&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/The_Ashes_2025_26/12687/Highlights/BB/393.mp4/playlist.m3u8?e=1767654138&h=ad4314d5b5aa651306af80a3aa3040c0&content_id=375280&_sid=86cf387ede068a521d2ab22d59a6c999e5976c7c10c6eeade9e57828c6cd3d8c&device_type=web"
       ]
     },
     {
@@ -83,8 +82,7 @@
       "target_url": "https://www.willow.tv/videos/11-5:-sean-abbott-to-jimmy-peirson-wicket-lbw-sys-vs-brh-streaming-online-match-24-big-bash-league-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/1031/12632/BB/71.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/71.mp4/chunklist.m3u8?e=1767653544&h=8d47dc5928ec97c21f89e990e737864b&content_id=375368&_sid=ae2718b03d6b216fcf206552d8a2dc1805f3c5200d1ac2465c0e0c85b34d2fc4&device_type=web",
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/71.mp4/playlist.m3u8?e=1767653544&h=8d47dc5928ec97c21f89e990e737864b&content_id=375368&_sid=ae2718b03d6b216fcf206552d8a2dc1805f3c5200d1ac2465c0e0c85b34d2fc4&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/71.mp4/playlist.m3u8?e=1767654141&h=2413b85d857113980328162fff333452&content_id=375368&_sid=17280071bd71f70b36f3d221dfdaa87358b4e7d5544c2429133409a1e25707b8&device_type=web"
       ]
     },
     {
@@ -92,8 +90,7 @@
       "target_url": "https://www.willow.tv/videos/11-4:-sean-abbott-to-jimmy-peirson-4-runs-s-sys-vs-brh-streaming-online-match-24-big-bash-league-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/1031/12632/BB/70.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/70.mp4/chunklist.m3u8?e=1767653547&h=654fa7df62f36dfea8afb34205a774c4&content_id=375367&_sid=672d9b07ac4ede61b4cda8e9b859da2c32b92ce73c1944ddd134e7081be6ddb4&device_type=web",
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/70.mp4/playlist.m3u8?e=1767653547&h=654fa7df62f36dfea8afb34205a774c4&content_id=375367&_sid=672d9b07ac4ede61b4cda8e9b859da2c32b92ce73c1944ddd134e7081be6ddb4&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/70.mp4/playlist.m3u8?e=1767654144&h=448b26eef49cc8ce978ba324f0691625&content_id=375367&_sid=f9c9c25afc995d49a56061fdaecef25d362edc03b5a78ab19753a3a432ce616d&device_type=web"
       ]
     },
     {
@@ -101,8 +98,7 @@
       "target_url": "https://www.willow.tv/videos/10-4:-jack-edwards-to-hugh-weibgen-6-runs-s-sys-vs-brh-streaming-online-match-24-big-bash-league-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/1031/12632/BB/64.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/64.mp4/chunklist.m3u8?e=1767653550&h=fd85ba0abdb703cd9934f821f9f67de1&content_id=375366&_sid=7f3028541e50ed15a95de18025c1178723e34edbee31219e7d91788e4822d91d&device_type=web",
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/64.mp4/playlist.m3u8?e=1767653550&h=fd85ba0abdb703cd9934f821f9f67de1&content_id=375366&_sid=7f3028541e50ed15a95de18025c1178723e34edbee31219e7d91788e4822d91d&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/64.mp4/playlist.m3u8?e=1767654147&h=070d476d3f66336aff960ca57ce11a94&content_id=375366&_sid=0bd60d189d9601acacfa9f4c3c9591ab61051f2e4c389363316afc829e600f5f&device_type=web"
       ]
     },
     {
@@ -110,10 +106,9 @@
       "target_url": "https://www.willow.tv/videos/7-6:-ben-dwarshuis-to-nathan-mcsweeney-wicket-caught-sys-vs-brh-streaming-online-match-24-big-bash-league-2025-26",
       "image": "https://aimages.willow.tv/ytThumbnails/1031/12632/BB/48.jpg",
       "m3u8": [
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/48.mp4/chunklist.m3u8?e=1767653553&h=067e029996c25061579e7ecfea3c3455&content_id=375359&_sid=60fddf5ef86035d09d01125fa9a348d9357ca76672483ec37f11996c2eea6d32&device_type=web",
-        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/48.mp4/playlist.m3u8?e=1767653553&h=067e029996c25061579e7ecfea3c3455&content_id=375359&_sid=60fddf5ef86035d09d01125fa9a348d9357ca76672483ec37f11996c2eea6d32&device_type=web"
+        "https://willowtv-tavod160w.pc.cdn.bitgravity.com/tavod160w/warchives/Big_Bash_League_2025_26/12632/Highlights/BB/48.mp4/playlist.m3u8?e=1767654150&h=3f3603aeb5701348ae3bd2b696588969&content_id=375359&_sid=6323ad3b3348a02c963ba9a089dea1bd1b587f7c43b806abeea0286d78a6e846&device_type=web"
       ]
     }
   ],
-  "timestamp": 1767649956
+  "timestamp": 1767650553
 }
