@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # fetch_stream.py
-# Bulk m3u8 extractor from FanCode highlights JSON
-# Uses Selenium + CDP
+# Bulk m3u8 extractor from HitMaal JSON
+# Uses Selenium + Chrome DevTools Protocol
 # Output: m3u8.json
 
-import os
 import time
 import json
 import re
@@ -19,52 +18,61 @@ OUTPUT_FILE = "m3u8.json"
 
 M3U8_RE = re.compile(r'https?://[^\'"\s>]+\.m3u8[^\'"\s>]*', re.I)
 
-def extract_m3u8(text):
-    return M3U8_RE.findall(text or "")
-
+# -------------------------------------------------
 def make_driver():
     options = Options()
     options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
-    options.set_capability("goog:loggingPrefs", {"performance": "ALL"})
-    return webdriver.Chrome(service=Service(shutil.which("chromedriver")), options=options)
 
-def scrape_page(driver, url, timeout=20):
+    # Enable performance logs (CDP)
+    options.set_capability(
+        "goog:loggingPrefs",
+        {"performance": "ALL"}
+    )
+
+    return webdriver.Chrome(
+        service=Service(shutil.which("chromedriver")),
+        options=options
+    )
+
+# -------------------------------------------------
+def scrape_page(driver, url, timeout=25):
     found = set()
+    seen_logs = set()
+
     driver.execute_cdp_cmd("Network.enable", {})
     driver.get(url)
-    time.sleep(2)
+
+    # ⏳ let scripts & player load
+    time.sleep(4)
 
     start = time.time()
-    seen = set()
 
     while time.time() - start < timeout:
         for entry in driver.get_log("performance"):
             raw = entry.get("message")
-            if not raw or raw in seen:
+            if not raw or raw in seen_logs:
                 continue
-            seen.add(raw)
+            seen_logs.add(raw)
 
             try:
                 msg = json.loads(raw)["message"]
-            except:
+            except Exception:
                 continue
 
             method = msg.get("method", "")
             params = msg.get("params", {})
 
-            if method == "Network.requestWillBeSent":
-                u = params.get("request", {}).get("url", "")
-                if ".m3u8" in u:
-                    found.add(u)
+            if method in ("Network.requestWillBeSent", "Network.responseReceived"):
+                url_found = (
+                    params.get("request", {}).get("url")
+                    or params.get("response", {}).get("url")
+                )
 
-            if method == "Network.responseReceived":
-                resp = params.get("response", {})
-                u = resp.get("url", "")
-                if ".m3u8" in u:
-                    found.add(u)
+                if url_found and ".m3u8" in url_found:
+                    found.add(url_found)
 
         if found:
             break
@@ -73,31 +81,39 @@ def scrape_page(driver, url, timeout=20):
 
     return sorted(found)
 
+# -------------------------------------------------
 def main():
     print("▶ Fetching source JSON")
     data = requests.get(SOURCE_JSON, timeout=30).json()
-    highlights = data.get("highlights", [])
+
+    # ✅ CORRECT KEY
+    episodes = data.get("episodes", [])
+    print(f"📦 Total episodes found: {len(episodes)}")
 
     driver = make_driver()
     results = []
     total_links = 0
 
     try:
-        for i, item in enumerate(highlights, 1):
+        for i, item in enumerate(episodes, 1):
             title = item.get("title")
             page_url = item.get("link")
             image = item.get("thumbnail")
 
-            print(f"[{i}/{len(highlights)}] Scraping: {title}")
-            m3u8 = scrape_page(driver, page_url)
+            if not page_url:
+                continue
 
-            total_links += len(m3u8)
+            print(f"[{i}/{len(episodes)}] Scraping: {title}")
+
+            m3u8_links = scrape_page(driver, page_url)
+
+            total_links += len(m3u8_links)
 
             results.append({
                 "title": title,
                 "target_url": page_url,
                 "image": image,
-                "m3u8": m3u8
+                "m3u8": m3u8_links
             })
 
     finally:
@@ -111,10 +127,11 @@ def main():
         "timestamp": int(time.time())
     }
 
-    with open(OUTPUT_FILE, "w") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
 
     print(f"✅ Saved {total_links} m3u8 links → {OUTPUT_FILE}")
 
+# -------------------------------------------------
 if __name__ == "__main__":
     main()
