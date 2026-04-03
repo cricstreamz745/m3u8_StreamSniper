@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 180,
+  "total_pages": 263,
   "total_m3u8": 0,
   "results": [
     {
@@ -1082,7 +1082,505 @@
       "target_url": "https://hmaal.net/jabran-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Jabran-Episode-6.webp",
       "m3u8": []
+    },
+    {
+      "title": "Jabran Episode 7",
+      "target_url": "https://hmaal.net/jabran-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jabran-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Aadhi Gharwali Episode 8",
+      "target_url": "https://hmaal.net/aadhi-gharwali-episode-8/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/10/Aadhi-Gharwali-Episode-8.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Aadhi Gharwali Episode 1",
+      "target_url": "https://hmaal.net/aadhi-gharwali-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/10/Aadhi-Gharwali-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Aadhi Gharwali Episode 4",
+      "target_url": "https://hmaal.net/aadhi-gharwali-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/10/Aadhi-Gharwali-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Aadhi Gharwali Episode 2",
+      "target_url": "https://hmaal.net/aadhi-gharwali-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/10/Aadhi-Gharwali-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Aadhi Gharwali Episode 3",
+      "target_url": "https://hmaal.net/aadhi-gharwali-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/10/Aadhi-Gharwali-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 6",
+      "target_url": "https://hmaal.net/chull-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 7",
+      "target_url": "https://hmaal.net/chull-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 9",
+      "target_url": "https://hmaal.net/chull-episode-9/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-9.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 8",
+      "target_url": "https://hmaal.net/chull-episode-8/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-8.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 5",
+      "target_url": "https://hmaal.net/chull-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 3",
+      "target_url": "https://hmaal.net/chull-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 4",
+      "target_url": "https://hmaal.net/chull-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 2",
+      "target_url": "https://hmaal.net/chull-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chull Episode 1",
+      "target_url": "https://hmaal.net/chull-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chull-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Nayi Padosan Episode 4",
+      "target_url": "https://hmaal.net/nayi-padosan-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/03/Raat-Baaki-Baat-Baaki-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Nayi Padosan Episode 3",
+      "target_url": "https://hmaal.net/nayi-padosan-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/03/Raat-Baaki-Baat-Baaki-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Nayi Padosan Episode 2",
+      "target_url": "https://hmaal.net/nayi-padosan-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/03/Raat-Baaki-Baat-Baaki-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Nayi Padosan Episode 1",
+      "target_url": "https://hmaal.net/nayi-padosan-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/03/Raat-Baaki-Baat-Baaki-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Raatein Rangeen Banaayein Episode 2",
+      "target_url": "https://hmaal.net/hotspot-raatein-rangeen-banaayein-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Raatein-Rangeen-Banaayein-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Raatein Rangeen Banaayein Episode 1",
+      "target_url": "https://hmaal.net/hotspot-raatein-rangeen-banaayein-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Raatein-Rangeen-Banaayein-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 10",
+      "target_url": "https://hmaal.net/pratiksha-episode-10/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-10.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 9",
+      "target_url": "https://hmaal.net/pratiksha-episode-9/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-9.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 8",
+      "target_url": "https://hmaal.net/pratiksha-episode-8/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-8.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 7",
+      "target_url": "https://hmaal.net/pratiksha-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 6",
+      "target_url": "https://hmaal.net/pratiksha-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 5",
+      "target_url": "https://hmaal.net/pratiksha-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 4",
+      "target_url": "https://hmaal.net/pratiksha-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 3",
+      "target_url": "https://hmaal.net/pratiksha-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 2",
+      "target_url": "https://hmaal.net/pratiksha-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Pratiksha Episode 1",
+      "target_url": "https://hmaal.net/pratiksha-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Pratiksha-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Next Door Episode 3",
+      "target_url": "https://hmaal.net/love-next-door-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Love-Next-Door-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Next Door Episode 2",
+      "target_url": "https://hmaal.net/love-next-door-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Love-Next-Door-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Next Door Episode 1",
+      "target_url": "https://hmaal.net/love-next-door-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Love-Next-Door-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Lobh Episode 4",
+      "target_url": "https://hmaal.net/lobh-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Lobh-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Lobh Episode 3",
+      "target_url": "https://hmaal.net/lobh-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Lobh-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Lobh Episode 2",
+      "target_url": "https://hmaal.net/lobh-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Lobh-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Lobh Episode 1",
+      "target_url": "https://hmaal.net/lobh-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Lobh-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jaghanya Kuttey Ki Maut Episode 3",
+      "target_url": "https://hmaal.net/jaghanya-kuttey-ki-maut-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Jaghanya-Kuttey-Ki-Maut-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jaghanya Kuttey Ki Maut Episode 2",
+      "target_url": "https://hmaal.net/jaghanya-kuttey-ki-maut-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Jaghanya-Kuttey-Ki-Maut-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jaghanya Kuttey Ki Maut Episode 1",
+      "target_url": "https://hmaal.net/jaghanya-kuttey-ki-maut-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Jaghanya-Kuttey-Ki-Maut-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Video Calling Episode 2",
+      "target_url": "https://hmaal.net/hotspot-video-calling-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Video-Calling-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Video Calling Episode 1",
+      "target_url": "https://hmaal.net/hotspot-video-calling-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Video-Calling-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Mail Trail Episode 2",
+      "target_url": "https://hmaal.net/hotspot-mail-trail-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Mail-Trail-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Mail Trail Episode 1",
+      "target_url": "https://hmaal.net/hotspot-mail-trail-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Mail-Trail-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hosport Matrimony Episode 2",
+      "target_url": "https://hmaal.net/hosport-matrimony-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Fantasy-Call-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hosport Matrimony Episode 1",
+      "target_url": "https://hmaal.net/hosport-matrimony-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Fantasy-Call-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hosport Fatasy Call Episode 2",
+      "target_url": "https://hmaal.net/hosport-fatasy-call-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Fantasy-Call-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hosport Fatasy Call Episode 1",
+      "target_url": "https://hmaal.net/hosport-fatasy-call-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Hotspot-Fantasy-Call-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Boja Episode 7",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Boja Episode 6",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Boja Episode 5",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Boja Episode 4",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Boja Episode 3",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Boja Episode 2",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Boja Episode 1",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Choo Le Zara Episode 7",
+      "target_url": "https://hmaal.net/choo-le-zara-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Chhu-Le-Zara-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Choo Le Zara Episode 6",
+      "target_url": "https://hmaal.net/choo-le-zara-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Chhu-Le-Zara-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Choo Le Zara Episode 5",
+      "target_url": "https://hmaal.net/choo-le-zara-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Chhu-Le-Zara-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Choo Le Zara Episode 4",
+      "target_url": "https://hmaal.net/choo-le-zara-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Chhu-Le-Zara-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Choo Le Zara Episode 3",
+      "target_url": "https://hmaal.net/choo-le-zara-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Chhu-Le-Zara-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Choo Le Zara Episode 2",
+      "target_url": "https://hmaal.net/choo-le-zara-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Chhu-Le-Zara-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Choo Le Zara Episode 1",
+      "target_url": "https://hmaal.net/choo-le-zara-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Chhu-Le-Zara-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Charmsukh Impotent Episode 1",
+      "target_url": "https://hmaal.net/charmsukh-impotent-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Charmsukh-Impotent.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Charamsukh Train Episode 1",
+      "target_url": "https://hmaal.net/charamsukh-train-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Charamsukh-Train.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bambai 4\u00d74 Episode 1",
+      "target_url": "https://hmaal.net/bambai-4x4-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Bambai-4x4-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kitty Party Episode 4",
+      "target_url": "https://hmaal.net/kitty-party-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Kitty-Party-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kitty Party Episode 3",
+      "target_url": "https://hmaal.net/kitty-party-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Kitty-Party-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kitty Party Episode 2",
+      "target_url": "https://hmaal.net/kitty-party-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Kitty-Party-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kitty Party Episode 1",
+      "target_url": "https://hmaal.net/kitty-party-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Kitty-Party-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 1",
+      "target_url": "https://hmaal.net/gaachi-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 2",
+      "target_url": "https://hmaal.net/gaachi-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 3",
+      "target_url": "https://hmaal.net/gaachi-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 4",
+      "target_url": "https://hmaal.net/gaachi-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 6",
+      "target_url": "https://hmaal.net/gaachi-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 5",
+      "target_url": "https://hmaal.net/gaachi-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 7",
+      "target_url": "https://hmaal.net/gaachi-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 1",
+      "target_url": "https://hmaal.net/bidaai-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 2",
+      "target_url": "https://hmaal.net/bidaai-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 3",
+      "target_url": "https://hmaal.net/bidaai-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 6",
+      "target_url": "https://hmaal.net/bidaai-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 5",
+      "target_url": "https://hmaal.net/bidaai-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 4",
+      "target_url": "https://hmaal.net/bidaai-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
+      "m3u8": []
     }
   ],
-  "timestamp": 1775183680
+  "timestamp": 1775196272
 }
