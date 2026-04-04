@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 263,
+  "total_pages": 268,
   "total_m3u8": 0,
   "results": [
     {
@@ -181,6 +181,36 @@
       "title": "Sarkaaye Lo Khatiya Episode 4",
       "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Biwi Ka Khat Episode 4",
+      "target_url": "https://hmaal.net/biwi-ka-khat-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/04/Biwi-Ka-Khat-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sarkaaye Lo Khatiya Episode 1",
+      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Biwi Ka Khat Episode 2",
+      "target_url": "https://hmaal.net/biwi-ka-khat-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/04/Biwi-Ka-Khat-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sarkaaye Lo Khatiya Episode 7",
+      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Biwi Ka Khat Episode 1",
+      "target_url": "https://hmaal.net/biwi-ka-khat-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/04/Biwi-Ka-Khat-Episode-1.webp",
       "m3u8": []
     },
     {
@@ -1582,5 +1612,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775289380
+  "timestamp": 1775298030
 }
