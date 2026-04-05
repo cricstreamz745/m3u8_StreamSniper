@@ -4,6 +4,36 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Shaukiya Episode 5",
+      "target_url": "https://hmaal.net/shaukiya-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Balam Pichkari Episode 1",
+      "target_url": "https://hmaal.net/balam-pichkari-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/02/Balam-Pichkari-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Balam Pichkari Episode 2",
+      "target_url": "https://hmaal.net/balam-pichkari-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/02/Balam-Pichkari-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Utha Le Jaunga Episode 3",
+      "target_url": "https://hmaal.net/utha-le-jaunga-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Balam Pichkari Episode 5",
+      "target_url": "https://hmaal.net/balam-pichkari-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/02/Balam-Pichkari-Episode-5.webp",
+      "m3u8": []
+    },
+    {
       "title": "Utha Le Jaunga Episode 1",
       "target_url": "https://hmaal.net/utha-le-jaunga-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-1.webp",
@@ -151,36 +181,6 @@
       "title": "Raat Baaki Baat Baaki Episode 7",
       "target_url": "https://hmaal.net/raat-baaki-baat-baaki-episode-7/",
       "image": "https://hmaal.net/wp-content/uploads/2025/03/Raat-Baaki-Baat-Baaki-Episode-7.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Chaashni Episode 4",
-      "target_url": "https://hmaal.net/chaashni-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/03/Chaashni-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kundi Mat Khadkao Raja Episode 5",
-      "target_url": "https://hmaal.net/kundi-mat-khadkao-raja-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Kundi-Mat-Khadkao-Raja-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Chaashni Episode 6",
-      "target_url": "https://hmaal.net/chaashni-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/03/Chaashni-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kundi Mat Khadkao Raja Episode 6",
-      "target_url": "https://hmaal.net/kundi-mat-khadkao-raja-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Kundi-Mat-Khadkao-Raja-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Chaashni Episode 5",
-      "target_url": "https://hmaal.net/chaashni-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/03/Chaashni-Episode-5.webp",
       "m3u8": []
     },
     {
@@ -1678,5 +1678,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775421564
+  "timestamp": 1775430639
 }
