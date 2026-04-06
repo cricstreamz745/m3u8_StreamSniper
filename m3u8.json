@@ -4,6 +4,54 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Dil To Baccha Hai Episode 4",
+      "target_url": "https://hmaal.net/dil-to-baccha-hai-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/12/Dil-To-Baccha-Hai-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Shaukiya Episode 2",
+      "target_url": "https://hmaal.net/shaukiya-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil To Baccha Hai Episode 6",
+      "target_url": "https://hmaal.net/dil-to-baccha-hai-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/12/Dil-To-Baccha-Hai-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kya Khoob Lagti Ho Episode 3",
+      "target_url": "https://hmaal.net/kya-khoob-lagti-ho-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kya-Khoob-Lagti-Ho-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Shaukiya Episode 3",
+      "target_url": "https://hmaal.net/shaukiya-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kya Khoob Lagti Ho Episode 4",
+      "target_url": "https://hmaal.net/kya-khoob-lagti-ho-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kya-Khoob-Lagti-Ho-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Shaukiya Episode 1",
+      "target_url": "https://hmaal.net/shaukiya-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jalebi Bai Episode 6",
+      "target_url": "https://hmaal.net/jalebi-bai-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-6.webp",
+      "m3u8": []
+    },
+    {
       "title": "Shaukiya Episode 5",
       "target_url": "https://hmaal.net/shaukiya-episode-5/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-5.webp",
@@ -133,54 +181,6 @@
       "title": "Jalebi Bai Episode 4",
       "target_url": "https://hmaal.net/jalebi-bai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Jalebi Bai Episode 3",
-      "target_url": "https://hmaal.net/jalebi-bai-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Chaashni Episode 3",
-      "target_url": "https://hmaal.net/chaashni-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/03/Chaashni-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Chaashni Episode 2",
-      "target_url": "https://hmaal.net/chaashni-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/03/Chaashni-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Raat Baaki Baat Baaki Episode 5",
-      "target_url": "https://hmaal.net/raat-baaki-baat-baaki-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/03/Raat-Baaki-Baat-Baaki-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Lene Ke Dene Episode 7",
-      "target_url": "https://hmaal.net/lene-ke-dene-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/02/Lene-Ke-Dene-Episode-7.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Lene Ke Dene Episode 3",
-      "target_url": "https://hmaal.net/lene-ke-dene-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/02/Lene-Ke-Dene-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kundi Mat Khadkao Raja Episode 7",
-      "target_url": "https://hmaal.net/kundi-mat-khadkao-raja-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Kundi-Mat-Khadkao-Raja-Episode-7.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Raat Baaki Baat Baaki Episode 7",
-      "target_url": "https://hmaal.net/raat-baaki-baat-baaki-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/03/Raat-Baaki-Baat-Baaki-Episode-7.webp",
       "m3u8": []
     },
     {
@@ -1678,5 +1678,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775441077
+  "timestamp": 1775457267
 }
