@@ -4,6 +4,12 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Kya Khoob Lagti Ho Episode 6",
+      "target_url": "https://hmaal.net/kya-khoob-lagti-ho-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kya-Khoob-Lagti-Ho-Episode-6.webp",
+      "m3u8": []
+    },
+    {
       "title": "Kya Khoob Lagti Ho Episode 1",
       "target_url": "https://hmaal.net/kya-khoob-lagti-ho-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Kya-Khoob-Lagti-Ho-Episode-1.webp",
@@ -175,12 +181,6 @@
       "title": "Dil To Baccha Hai Episode 1",
       "target_url": "https://hmaal.net/dil-to-baccha-hai-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/12/Dil-To-Baccha-Hai-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Utha Le Jaunga Episode 6",
-      "target_url": "https://hmaal.net/utha-le-jaunga-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-6.webp",
       "m3u8": []
     },
     {
@@ -1816,5 +1816,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775480809
+  "timestamp": 1775492328
 }
