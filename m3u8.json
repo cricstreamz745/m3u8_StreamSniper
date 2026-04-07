@@ -1,8 +1,56 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 302,
+  "total_pages": 318,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Malti Episode 6",
+      "target_url": "https://hmaal.net/malti-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-E6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Taras Episode 1",
+      "target_url": "https://hmaal.net/taras-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Taras-E1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dance Bar Episode 5",
+      "target_url": "https://hmaal.net/dance-bar-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dance-Bar-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Malti Episode 4",
+      "target_url": "https://hmaal.net/malti-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-E4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Ek Deewana Tha Episode 6",
+      "target_url": "https://hmaal.net/ek-deewana-tha-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Deewana-Tha-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dance Bar Episode 4",
+      "target_url": "https://hmaal.net/dance-bar-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dance-Bar-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Taras Episode 2",
+      "target_url": "https://hmaal.net/taras-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Taras-E2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dance Bar Episode 3",
+      "target_url": "https://hmaal.net/dance-bar-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dance-Bar-Episode-3.webp",
+      "m3u8": []
+    },
     {
       "title": "Dance Bar Episode 1",
       "target_url": "https://hmaal.net/dance-bar-episode-1/",
@@ -136,12 +184,6 @@
       "m3u8": []
     },
     {
-      "title": "Kya Khoob Lagti Ho Episode 4",
-      "target_url": "https://hmaal.net/kya-khoob-lagti-ho-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kya-Khoob-Lagti-Ho-Episode-4.webp",
-      "m3u8": []
-    },
-    {
       "title": "Shaukiya Episode 1",
       "target_url": "https://hmaal.net/shaukiya-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-1.webp",
@@ -181,6 +223,102 @@
       "title": "Balam Pichkari Episode 5",
       "target_url": "https://hmaal.net/balam-pichkari-episode-5/",
       "image": "https://hmaal.net/wp-content/uploads/2025/02/Balam-Pichkari-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Utha Le Jaunga Episode 1",
+      "target_url": "https://hmaal.net/utha-le-jaunga-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil To Baccha Hai Episode 3",
+      "target_url": "https://hmaal.net/dil-to-baccha-hai-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/12/Dil-To-Baccha-Hai-Episode-3-New.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Utha Le Jaunga Episode 2",
+      "target_url": "https://hmaal.net/utha-le-jaunga-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Utha Le Jaunga Episode 4",
+      "target_url": "https://hmaal.net/utha-le-jaunga-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Balam Pichkari Episode 4",
+      "target_url": "https://hmaal.net/balam-pichkari-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/02/Balam-Pichkari-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil To Baccha Hai Episode 2",
+      "target_url": "https://hmaal.net/dil-to-baccha-hai-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/12/Dil-To-Baccha-Hai-Episode-2-New.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil To Baccha Hai Episode 1",
+      "target_url": "https://hmaal.net/dil-to-baccha-hai-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/12/Dil-To-Baccha-Hai-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Utha Le Jaunga Episode 6",
+      "target_url": "https://hmaal.net/utha-le-jaunga-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Utha Le Jaunga Episode 7",
+      "target_url": "https://hmaal.net/utha-le-jaunga-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Balam Pichkari Episode 6",
+      "target_url": "https://hmaal.net/balam-pichkari-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/02/Balam-Pichkari-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Utha Le Jaunga Episode 5",
+      "target_url": "https://hmaal.net/utha-le-jaunga-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/01/Utha-Le-Jaunga-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Balam Pichkari Episode 7",
+      "target_url": "https://hmaal.net/balam-pichkari-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/02/Balam-Pichkari-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Balam Pichkari Episode 3",
+      "target_url": "https://hmaal.net/balam-pichkari-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/02/Balam-Pichkari-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jalebi Bai Episode 2",
+      "target_url": "https://hmaal.net/jalebi-bai-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jalebi Bai Episode 1",
+      "target_url": "https://hmaal.net/jalebi-bai-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-10.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jalebi Bai Episode 5",
+      "target_url": "https://hmaal.net/jalebi-bai-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-5.webp",
       "m3u8": []
     },
     {
@@ -319,48 +457,6 @@
       "title": "Biwi Ka Khat Episode 6",
       "target_url": "https://hmaal.net/biwi-ka-khat-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2025/04/Biwi-Ka-Khat-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sarkaaye Lo Khatiya Episode 5",
-      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sarkaaye Lo Khatiya Episode 6",
-      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sarkaaye Lo Khatiya Episode 3",
-      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sarkaaye Lo Khatiya Episode 4",
-      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Biwi Ka Khat Episode 4",
-      "target_url": "https://hmaal.net/biwi-ka-khat-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Biwi-Ka-Khat-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sarkaaye Lo Khatiya Episode 1",
-      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Biwi Ka Khat Episode 2",
-      "target_url": "https://hmaal.net/biwi-ka-khat-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Biwi-Ka-Khat-Episode-2.webp",
       "m3u8": []
     },
     {
@@ -1816,5 +1912,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775521852
+  "timestamp": 1775541970
 }
