@@ -1,8 +1,44 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 325,
+  "total_pages": 330,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Dance Bar Episode 6",
+      "target_url": "https://hmaal.net/dance-bar-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dance-Bar-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Ek Deewana Tha Episode 4",
+      "target_url": "https://hmaal.net/ek-deewana-tha-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Deewana-Tha-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Ek Deewana Tha Episode 3",
+      "target_url": "https://hmaal.net/ek-deewana-tha-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Deewana-Tha-E3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Malti Episode 2",
+      "target_url": "https://hmaal.net/malti-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-Part-1-E2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Ek Deewana Tha Episode 5",
+      "target_url": "https://hmaal.net/ek-deewana-tha-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Deewana-Tha-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Taras Episode 5",
+      "target_url": "https://hmaal.net/taras-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Taras-E5.webp",
+      "m3u8": []
+    },
     {
       "title": "Malti Episode 1",
       "target_url": "https://hmaal.net/malti-episode-1/",
@@ -145,42 +181,6 @@
       "title": "Kya Khoob Lagti Ho Episode 6",
       "target_url": "https://hmaal.net/kya-khoob-lagti-ho-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Kya-Khoob-Lagti-Ho-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kya Khoob Lagti Ho Episode 1",
-      "target_url": "https://hmaal.net/kya-khoob-lagti-ho-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kya-Khoob-Lagti-Ho-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Ek Baar Aur Episode 4",
-      "target_url": "https://hmaal.net/ek-baar-aur-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/12/Ek-Baar-Aur-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Ek Baar Aur Episode 1",
-      "target_url": "https://hmaal.net/ek-baar-aur-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Baar-Aur-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Ek Baar Aur Episode 2",
-      "target_url": "https://hmaal.net/ek-baar-aur-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Baar-Aur-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Ek Baar Aur Episode 3",
-      "target_url": "https://hmaal.net/ek-baar-aur-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Baar-Aur-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Ek Baar Aur Episode 5",
-      "target_url": "https://hmaal.net/ek-baar-aur-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/12/Ek-Baar-Aur-Episode-5.webp",
       "m3u8": []
     },
     {
@@ -1952,7 +1952,37 @@
       "target_url": "https://hmaal.net/bidaai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
       "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 2",
+      "target_url": "https://hmaal.net/bidaai-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 3",
+      "target_url": "https://hmaal.net/bidaai-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 6",
+      "target_url": "https://hmaal.net/bidaai-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 5",
+      "target_url": "https://hmaal.net/bidaai-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 4",
+      "target_url": "https://hmaal.net/bidaai-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
+      "m3u8": []
     }
   ],
-  "timestamp": 1775593347
+  "timestamp": 1775603526
 }
