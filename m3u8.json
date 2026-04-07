@@ -1,8 +1,32 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 323,
+  "total_pages": 325,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Malti Episode 1",
+      "target_url": "https://hmaal.net/malti-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-Part-1-E1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dance Bar Episode 2",
+      "target_url": "https://hmaal.net/dance-bar-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dance-Bar-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Malti Episode 5",
+      "target_url": "https://hmaal.net/malti-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-E5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Malti Episode 3",
+      "target_url": "https://hmaal.net/malti-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-Part-1-E3.webp",
+      "m3u8": []
+    },
     {
       "title": "Taras Episode 3",
       "target_url": "https://hmaal.net/taras-episode-3/",
@@ -160,18 +184,6 @@
       "m3u8": []
     },
     {
-      "title": "Ek Baar Aur Episode 6",
-      "target_url": "https://hmaal.net/ek-baar-aur-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/12/Ek-Baar-Aur-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Shaukiya Episode 6",
-      "target_url": "https://hmaal.net/shaukiya-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-6.webp",
-      "m3u8": []
-    },
-    {
       "title": "Shaukiya Episode 4",
       "target_url": "https://hmaal.net/shaukiya-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-4.webp",
@@ -181,6 +193,12 @@
       "title": "Dil To Baccha Hai Episode 4",
       "target_url": "https://hmaal.net/dil-to-baccha-hai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/12/Dil-To-Baccha-Hai-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Shaukiya Episode 2",
+      "target_url": "https://hmaal.net/shaukiya-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-2.webp",
       "m3u8": []
     },
     {
@@ -355,12 +373,6 @@
       "title": "Jalebi Bai Episode 3",
       "target_url": "https://hmaal.net/jalebi-bai-episode-3/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Chaashni Episode 3",
-      "target_url": "https://hmaal.net/chaashni-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/03/Chaashni-Episode-3.webp",
       "m3u8": []
     },
     {
@@ -1084,6 +1096,24 @@
       "m3u8": []
     },
     {
+      "title": "Rain Basera Episode 7",
+      "target_url": "https://hmaal.net/rain-basera-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Rain-Basera-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Rain Basera Episode 6",
+      "target_url": "https://hmaal.net/rain-basera-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Rain-Basera-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Purani Haveli Episode 1",
+      "target_url": "https://hmaal.net/purani-haveli-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Purani-Haveli-Episode-1-1.webp",
+      "m3u8": []
+    },
+    {
       "title": "Rain Basera Episode 2",
       "target_url": "https://hmaal.net/rain-basera-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Rain-Basera-Episode-2.webp",
@@ -1243,24 +1273,6 @@
       "title": "Tohfa Episode 6",
       "target_url": "https://hmaal.net/tohfa-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Tohfa-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Virgin Boys Episode 5",
-      "target_url": "https://hmaal.net/virgin-boys-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Virgin-Boys-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Bandh Darwaza Episode 5",
-      "target_url": "https://hmaal.net/bandh-darwaza-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/09/Bandh-Darwaza-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Virgin Boys Episode 6",
-      "target_url": "https://hmaal.net/virgin-boys-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Virgin-Boys-Episode-6.webp",
       "m3u8": []
     },
     {
@@ -1942,5 +1954,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775567552
+  "timestamp": 1775580928
 }
