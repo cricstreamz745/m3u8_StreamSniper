@@ -4,6 +4,18 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "The Choice Episode 3",
+      "target_url": "https://hmaal.net/the-choice-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Choice-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "The Bull Of Dalal Street Episode 6",
+      "target_url": "https://hmaal.net/the-bull-of-dalal-street-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-6.webp",
+      "m3u8": []
+    },
+    {
       "title": "The Devil Inside Episode 2",
       "target_url": "https://hmaal.net/the-devil-inside-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Devil-Inside-Episode-2.webp",
@@ -169,18 +181,6 @@
       "title": "Malti Episode 5",
       "target_url": "https://hmaal.net/malti-episode-5/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-E5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Malti Episode 3",
-      "target_url": "https://hmaal.net/malti-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-Part-1-E3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Taras Episode 3",
-      "target_url": "https://hmaal.net/taras-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Taras-E3.webp",
       "m3u8": []
     },
     {
@@ -2098,5 +2098,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775655363
+  "timestamp": 1775677500
 }
