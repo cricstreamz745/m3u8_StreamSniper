@@ -1,8 +1,44 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 349,
+  "total_pages": 360,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "The Host Episode 2",
+      "target_url": "https://hmaal.net/the-host-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Host-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Wanna Have A Good Time Episode 4",
+      "target_url": "https://hmaal.net/wanna-have-a-good-time-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Wanna-Have-A-Good-Time-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Wanna Have A Good Time Episode 2",
+      "target_url": "https://hmaal.net/wanna-have-a-good-time-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Wanna-Have-A-Good-Time-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "The Bull Of Dalal Street Episode 4",
+      "target_url": "https://hmaal.net/the-bull-of-dalal-street-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "The Bull Of Dalal Street Episode 12",
+      "target_url": "https://hmaal.net/the-bull-of-dalal-street-episode-12/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-12.webp",
+      "m3u8": []
+    },
+    {
+      "title": "The Bull Of Dalal Street Episode 5",
+      "target_url": "https://hmaal.net/the-bull-of-dalal-street-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-5.webp",
+      "m3u8": []
+    },
     {
       "title": "The Choice Episode 3",
       "target_url": "https://hmaal.net/the-choice-episode-3/",
@@ -181,6 +217,36 @@
       "title": "Malti Episode 5",
       "target_url": "https://hmaal.net/malti-episode-5/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-E5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Malti Episode 3",
+      "target_url": "https://hmaal.net/malti-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Malti-Part-1-E3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Taras Episode 3",
+      "target_url": "https://hmaal.net/taras-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Taras-E3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Ek Deewana Tha Episode 1",
+      "target_url": "https://hmaal.net/ek-deewana-tha-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Deewana-Tha-E1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jalebi Bai Episode 10",
+      "target_url": "https://hmaal.net/jalebi-bai-episode-10/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-10-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Ek Deewana Tha Episode 2",
+      "target_url": "https://hmaal.net/ek-deewana-tha-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Deewana-Tha-E2.webp",
       "m3u8": []
     },
     {
@@ -364,6 +430,18 @@
       "m3u8": []
     },
     {
+      "title": "Kya Khoob Lagti Ho Episode 4",
+      "target_url": "https://hmaal.net/kya-khoob-lagti-ho-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kya-Khoob-Lagti-Ho-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Shaukiya Episode 1",
+      "target_url": "https://hmaal.net/shaukiya-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shaukiya-Episode-1.webp",
+      "m3u8": []
+    },
+    {
       "title": "Jalebi Bai Episode 6",
       "target_url": "https://hmaal.net/jalebi-bai-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Jalebi-Bai-Episode-6.webp",
@@ -544,18 +622,6 @@
       "m3u8": []
     },
     {
-      "title": "Lene Ke Dene Episode 3",
-      "target_url": "https://hmaal.net/lene-ke-dene-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/02/Lene-Ke-Dene-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kundi Mat Khadkao Raja Episode 7",
-      "target_url": "https://hmaal.net/kundi-mat-khadkao-raja-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Kundi-Mat-Khadkao-Raja-Episode-7.webp",
-      "m3u8": []
-    },
-    {
       "title": "Raat Baaki Baat Baaki Episode 7",
       "target_url": "https://hmaal.net/raat-baaki-baat-baaki-episode-7/",
       "image": "https://hmaal.net/wp-content/uploads/2025/03/Raat-Baaki-Baat-Baaki-Episode-7.webp",
@@ -655,18 +721,6 @@
       "title": "Sarkaaye Lo Khatiya Episode 6",
       "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sarkaaye Lo Khatiya Episode 3",
-      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sarkaaye Lo Khatiya Episode 4",
-      "target_url": "https://hmaal.net/sarkaaye-lo-khatiya-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2025/04/Sarkaaye-Lo-Khatiya-Episode-4.webp",
       "m3u8": []
     },
     {
@@ -1084,6 +1138,18 @@
       "m3u8": []
     },
     {
+      "title": "Jane Anjane Mein 3 Episode 2",
+      "target_url": "https://hmaal.net/jane-anjane-mein-3-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jane-Anjane-Mein-3-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bhool Chook Maaf Episode 4",
+      "target_url": "https://hmaal.net/bhool-chook-maaf-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/10/Bhool-Chook-Maaf-Episode-4.webp",
+      "m3u8": []
+    },
+    {
       "title": "Chhup Chhup Ke Episode 6",
       "target_url": "https://hmaal.net/chhup-chhup-ke-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2025/10/Chhup20Chhup20Ke20Episode206.webp",
@@ -1249,18 +1315,6 @@
       "title": "Rain Basera Episode 2",
       "target_url": "https://hmaal.net/rain-basera-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Rain-Basera-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Rain Basera Episode 1",
-      "target_url": "https://hmaal.net/rain-basera-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Rain-Basera-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Rain Basera Episode 9",
-      "target_url": "https://hmaal.net/rain-basera-episode-9/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Rain-Basera-Episode-9.webp",
       "m3u8": []
     },
     {
@@ -1930,6 +1984,18 @@
       "m3u8": []
     },
     {
+      "title": "Dil Pe Boja Episode 3",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Boja Episode 2",
+      "target_url": "https://hmaal.net/dil-pe-boja-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-2.webp",
+      "m3u8": []
+    },
+    {
       "title": "Dil Pe Boja Episode 1",
       "target_url": "https://hmaal.net/dil-pe-boja-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2026/01/Dil-Pe-Bojh-Episode-1.webp",
@@ -2098,5 +2164,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775677500
+  "timestamp": 1775689725
 }
