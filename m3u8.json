@@ -1,8 +1,50 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 360,
+  "total_pages": 367,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Soul Reader Episode 1",
+      "target_url": "https://hmaal.net/soul-reader-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Soul-Reader-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sona Episode 2",
+      "target_url": "https://hmaal.net/sona-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sona-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sursuri Li Episode 11",
+      "target_url": "https://hmaal.net/sursuri-li-episode-11/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sursuri-Li-Episode-11.webp",
+      "m3u8": []
+    },
+    {
+      "title": "The Producer Episode 1",
+      "target_url": "https://hmaal.net/the-producer-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Producer-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sursuri Li Episode 7",
+      "target_url": "https://hmaal.net/sursuri-li-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sursuri-Li-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sursuri Li Episode 10",
+      "target_url": "https://hmaal.net/sursuri-li-episode-10/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sursuri-Li-Episode-10.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sursuri Li Episode 1",
+      "target_url": "https://hmaal.net/sursuri-li-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sursuri-Li-Episode-1.webp",
+      "m3u8": []
+    },
     {
       "title": "The Host Episode 2",
       "target_url": "https://hmaal.net/the-host-episode-2/",
@@ -139,48 +181,6 @@
       "title": "The Host Episode 1",
       "target_url": "https://hmaal.net/the-host-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Host-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "The Bull Of Dalal Street Episode 10",
-      "target_url": "https://hmaal.net/the-bull-of-dalal-street-episode-10/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Bull-Of-Dalal-Street-Episode-10.webp",
-      "m3u8": []
-    },
-    {
-      "title": "The Devil Inside Episode 1",
-      "target_url": "https://hmaal.net/the-devil-inside-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Devil-Inside-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Taras Episode 4",
-      "target_url": "https://hmaal.net/taras-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Taras-E4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Taras Episode 6",
-      "target_url": "https://hmaal.net/taras-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Taras-E6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dance Bar Episode 6",
-      "target_url": "https://hmaal.net/dance-bar-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dance-Bar-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Ek Deewana Tha Episode 4",
-      "target_url": "https://hmaal.net/ek-deewana-tha-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Deewana-Tha-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Ek Deewana Tha Episode 3",
-      "target_url": "https://hmaal.net/ek-deewana-tha-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Ek-Deewana-Tha-E3.webp",
       "m3u8": []
     },
     {
@@ -2162,7 +2162,49 @@
       "target_url": "https://hmaal.net/bidaai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
       "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 7",
+      "target_url": "https://hmaal.net/gaachi-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 1",
+      "target_url": "https://hmaal.net/bidaai-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 2",
+      "target_url": "https://hmaal.net/bidaai-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 3",
+      "target_url": "https://hmaal.net/bidaai-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 6",
+      "target_url": "https://hmaal.net/bidaai-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 5",
+      "target_url": "https://hmaal.net/bidaai-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 4",
+      "target_url": "https://hmaal.net/bidaai-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
+      "m3u8": []
     }
   ],
-  "timestamp": 1775701433
+  "timestamp": 1775715837
 }
