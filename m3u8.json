@@ -4,6 +4,36 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Kirdaar Episode 4",
+      "target_url": "https://hmaal.net/kirdaar-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Ullu Web Series Shor Episode 1",
+      "target_url": "https://hmaal.net/ullu-web-series-shor-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shor-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sunny Winter Episode 2",
+      "target_url": "https://hmaal.net/sunny-winter-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sultan Episode 1",
+      "target_url": "https://hmaal.net/sultan-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sultan Episode 6",
+      "target_url": "https://hmaal.net/sultan-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-6.webp",
+      "m3u8": []
+    },
+    {
       "title": "Kirdaar Episode 2",
       "target_url": "https://hmaal.net/kirdaar-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-2.webp",
@@ -151,36 +181,6 @@
       "title": "Sona Episode 3",
       "target_url": "https://hmaal.net/sona-episode-3/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Sona-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sona Episode 4",
-      "target_url": "https://hmaal.net/sona-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sona-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sursuri Li Episode 4",
-      "target_url": "https://hmaal.net/sursuri-li-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sursuri-Li-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sursuri Li Episode 3",
-      "target_url": "https://hmaal.net/sursuri-li-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sursuri-Li-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sursuri Li Episode 2",
-      "target_url": "https://hmaal.net/sursuri-li-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sursuri-Li-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sona Episode 5",
-      "target_url": "https://hmaal.net/sona-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sona-Episode-5.webp",
       "m3u8": []
     },
     {
@@ -2374,5 +2374,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775832318
+  "timestamp": 1775846854
 }
