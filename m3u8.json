@@ -1,8 +1,44 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 415,
+  "total_pages": 416,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Love Guru 3 Episode 2",
+      "target_url": "https://hmaal.net/love-guru-3-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Guru 2 Episode 1",
+      "target_url": "https://hmaal.net/love-guru-2-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-2-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Guru 2 Episode 3",
+      "target_url": "https://hmaal.net/love-guru-2-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-2-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Guru 3 Episode 1",
+      "target_url": "https://hmaal.net/love-guru-3-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Guru Episode 4",
+      "target_url": "https://hmaal.net/love-guru-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Guru 2 Episode 4",
+      "target_url": "https://hmaal.net/love-guru-2-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-2-Episode-4.webp",
+      "m3u8": []
+    },
     {
       "title": "Love Guru 3 Episode 3",
       "target_url": "https://hmaal.net/love-guru-3-episode-3/",
@@ -145,42 +181,6 @@
       "title": "Shor Episode 1",
       "target_url": "https://hmaal.net/shor-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Shor-Episode-1-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kirdaar Episode 3",
-      "target_url": "https://hmaal.net/kirdaar-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sunny Winter Episode 4",
-      "target_url": "https://hmaal.net/sunny-winter-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sultan Episode 5",
-      "target_url": "https://hmaal.net/sultan-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sunny Winter Episode 1",
-      "target_url": "https://hmaal.net/sunny-winter-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sultan Episode 4",
-      "target_url": "https://hmaal.net/sultan-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sultan Episode 2",
-      "target_url": "https://hmaal.net/sultan-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-2.webp",
       "m3u8": []
     },
     {
@@ -2492,7 +2492,13 @@
       "target_url": "https://hmaal.net/bidaai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
       "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 4",
+      "target_url": "https://hmaal.net/bidaai-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
+      "m3u8": []
     }
   ],
-  "timestamp": 1775917720
+  "timestamp": 1775931488
 }
