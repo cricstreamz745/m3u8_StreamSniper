@@ -4,6 +4,30 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Love Guru 3 Episode 3",
+      "target_url": "https://hmaal.net/love-guru-3-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Guru 3 Episode 4",
+      "target_url": "https://hmaal.net/love-guru-3-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Guru 2 Episode 2",
+      "target_url": "https://hmaal.net/love-guru-2-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-2-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Love Guru Episode 2",
+      "target_url": "https://hmaal.net/love-guru-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-2.webp",
+      "m3u8": []
+    },
+    {
       "title": "Love Guru Episode 1",
       "target_url": "https://hmaal.net/love-guru-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-1.webp",
@@ -157,30 +181,6 @@
       "title": "Sultan Episode 2",
       "target_url": "https://hmaal.net/sultan-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sursuri Li Episode 8",
-      "target_url": "https://hmaal.net/sursuri-li-episode-8/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sursuri-Li-Episode-8.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Trapped Episode 2",
-      "target_url": "https://hmaal.net/trapped-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Trapped-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "The Producer Episode 2",
-      "target_url": "https://hmaal.net/the-producer-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/The-Producer-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sona Episode 8",
-      "target_url": "https://hmaal.net/sona-episode-8/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sona-Episode-8.webp",
       "m3u8": []
     },
     {
@@ -2374,5 +2374,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775872085
+  "timestamp": 1775891280
 }
