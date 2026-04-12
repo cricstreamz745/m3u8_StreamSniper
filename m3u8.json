@@ -1,8 +1,20 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 416,
+  "total_pages": 435,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Khul Ja Sim Sim Episode 8",
+      "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-8/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-8.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Live Streaming Episode 2",
+      "target_url": "https://hmaal.net/live-streaming-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Live-Streaming-Episode-2.webp",
+      "m3u8": []
+    },
     {
       "title": "Khoon Bhari Maang Episode 5",
       "target_url": "https://hmaal.net/khoon-bhari-maang-episode-5/",
@@ -181,6 +193,114 @@
       "title": "Sunny Winter Episode 5",
       "target_url": "https://hmaal.net/sunny-winter-episode-5/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kirdaar Episode 4",
+      "target_url": "https://hmaal.net/kirdaar-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Ullu Web Series Shor Episode 1",
+      "target_url": "https://hmaal.net/ullu-web-series-shor-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shor-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sunny Winter Episode 2",
+      "target_url": "https://hmaal.net/sunny-winter-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sultan Episode 1",
+      "target_url": "https://hmaal.net/sultan-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sultan Episode 6",
+      "target_url": "https://hmaal.net/sultan-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kirdaar Episode 2",
+      "target_url": "https://hmaal.net/kirdaar-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sunny Winter Episode 3",
+      "target_url": "https://hmaal.net/sunny-winter-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sunny Winter Episode 6",
+      "target_url": "https://hmaal.net/sunny-winter-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kirdaar Episode 1",
+      "target_url": "https://hmaal.net/kirdaar-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Shor Episode 2",
+      "target_url": "https://hmaal.net/shor-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shor-Episode-2-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kirdaar Episode 9",
+      "target_url": "https://hmaal.net/kirdaar-episode-9/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-9.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Shor Episode 1",
+      "target_url": "https://hmaal.net/shor-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shor-Episode-1-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kirdaar Episode 3",
+      "target_url": "https://hmaal.net/kirdaar-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sunny Winter Episode 4",
+      "target_url": "https://hmaal.net/sunny-winter-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sultan Episode 5",
+      "target_url": "https://hmaal.net/sultan-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sunny Winter Episode 1",
+      "target_url": "https://hmaal.net/sunny-winter-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sunny-Winter-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sultan Episode 4",
+      "target_url": "https://hmaal.net/sultan-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Sultan Episode 2",
+      "target_url": "https://hmaal.net/sultan-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-2.webp",
       "m3u8": []
     },
     {
@@ -2492,13 +2612,7 @@
       "target_url": "https://hmaal.net/bidaai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
       "m3u8": []
-    },
-    {
-      "title": "Bidaai Episode 4",
-      "target_url": "https://hmaal.net/bidaai-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
-      "m3u8": []
     }
   ],
-  "timestamp": 1775988703
+  "timestamp": 1776002381
 }
