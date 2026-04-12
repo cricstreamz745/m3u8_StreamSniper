@@ -4,6 +4,36 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Khul Ja Sim Sim Episode 4",
+      "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Khoon Bhari Maang Episode 2",
+      "target_url": "https://hmaal.net/khoon-bhari-maang-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khoon-Bhari-Maang-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Khul Ja Sim Sim Episode 1",
+      "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kasak Episode 1",
+      "target_url": "https://hmaal.net/kasak-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Khul Ja Sim Sim Episode 5",
+      "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-5.webp",
+      "m3u8": []
+    },
+    {
       "title": "Khul Ja Sim Sim Episode 8",
       "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-8/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-8.webp",
@@ -151,36 +181,6 @@
       "title": "Love Guru Episode 1",
       "target_url": "https://hmaal.net/love-guru-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Sultan Episode 3",
-      "target_url": "https://hmaal.net/sultan-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Sultan-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kirdaar Episode 7",
-      "target_url": "https://hmaal.net/kirdaar-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-7.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Ullu Web Series Shor Episode 2",
-      "target_url": "https://hmaal.net/ullu-web-series-shor-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shor-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kirdaar Episode 6",
-      "target_url": "https://hmaal.net/kirdaar-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kirdaar Episode 8",
-      "target_url": "https://hmaal.net/kirdaar-episode-8/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-8.webp",
       "m3u8": []
     },
     {
@@ -2614,5 +2614,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776002381
+  "timestamp": 1776016921
 }
