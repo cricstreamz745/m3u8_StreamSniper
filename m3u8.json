@@ -4,6 +4,12 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Love Guru Episode 3",
+      "target_url": "https://hmaal.net/love-guru-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-3.webp",
+      "m3u8": []
+    },
+    {
       "title": "Love Guru 3 Episode 2",
       "target_url": "https://hmaal.net/love-guru-3-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-2.webp",
@@ -175,12 +181,6 @@
       "title": "Kirdaar Episode 9",
       "target_url": "https://hmaal.net/kirdaar-episode-9/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Kirdaar-Episode-9.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Shor Episode 1",
-      "target_url": "https://hmaal.net/shor-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Shor-Episode-1-1.webp",
       "m3u8": []
     },
     {
@@ -2500,5 +2500,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1775944114
+  "timestamp": 1775957135
 }
