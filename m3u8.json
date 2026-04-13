@@ -4,6 +4,30 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Kings Man Episode 3",
+      "target_url": "https://hmaal.net/kings-man-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kings-Man-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Khoon Bhari Maang Episode 4",
+      "target_url": "https://hmaal.net/khoon-bhari-maang-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khoon-Bhari-Maang-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Live Streaming Episode 3",
+      "target_url": "https://hmaal.net/live-streaming-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Live-Streaming-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kings Man Episode 2",
+      "target_url": "https://hmaal.net/kings-man-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kings-Man-Episode-2.webp",
+      "m3u8": []
+    },
+    {
       "title": "Khul Ja Sim Sim Episode 4",
       "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-4.webp",
@@ -157,30 +181,6 @@
       "title": "Love Guru 3 Episode 3",
       "target_url": "https://hmaal.net/love-guru-3-episode-3/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru 3 Episode 4",
-      "target_url": "https://hmaal.net/love-guru-3-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru 2 Episode 2",
-      "target_url": "https://hmaal.net/love-guru-2-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-2-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru Episode 2",
-      "target_url": "https://hmaal.net/love-guru-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru Episode 1",
-      "target_url": "https://hmaal.net/love-guru-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-1.webp",
       "m3u8": []
     },
     {
@@ -2614,5 +2614,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776031645
+  "timestamp": 1776045817
 }
