@@ -4,6 +4,36 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Julie 2 Episode 6",
+      "target_url": "https://hmaal.net/julie-2-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Julie-2-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jaghanya Upaay Episode 1",
+      "target_url": "https://hmaal.net/jaghanya-upaay-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jaghanya-Upaay-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kasak Episode 11",
+      "target_url": "https://hmaal.net/kasak-episode-11/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-11.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kasak Episode 2",
+      "target_url": "https://hmaal.net/kasak-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Julie Episode 2",
+      "target_url": "https://hmaal.net/julie-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Julie-Episode-2.webp",
+      "m3u8": []
+    },
+    {
       "title": "Kasak Episode 7",
       "target_url": "https://hmaal.net/kasak-episode-7/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-7.webp",
@@ -151,36 +181,6 @@
       "title": "Live Streaming Episode 2",
       "target_url": "https://hmaal.net/live-streaming-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Live-Streaming-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Khoon Bhari Maang Episode 5",
-      "target_url": "https://hmaal.net/khoon-bhari-maang-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khoon-Bhari-Maang-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Khoon Bhari Maang Episode 7",
-      "target_url": "https://hmaal.net/khoon-bhari-maang-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khoon-Bhari-Maang-Episode-7.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kings Man Episode 1",
-      "target_url": "https://hmaal.net/kings-man-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kings-Man-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Khul Ja Sim Sim Episode 7",
-      "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-7.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Live Streaming Episode 1",
-      "target_url": "https://hmaal.net/live-streaming-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Live-Streaming-Episode-1.webp",
       "m3u8": []
     },
     {
@@ -2752,5 +2752,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776098377
+  "timestamp": 1776113709
 }
