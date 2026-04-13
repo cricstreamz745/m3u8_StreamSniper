@@ -1,8 +1,68 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 435,
+  "total_pages": 439,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Kasak Episode 6",
+      "target_url": "https://hmaal.net/kasak-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jaghanya Upaay Episode 2",
+      "target_url": "https://hmaal.net/jaghanya-upaay-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jaghanya-Upaay-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Julie Episode 3",
+      "target_url": "https://hmaal.net/julie-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Julie-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Julie 2 Episode 5",
+      "target_url": "https://hmaal.net/julie-2-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Julie-2-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kasak Episode 3",
+      "target_url": "https://hmaal.net/kasak-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Julie 2 Episode 4",
+      "target_url": "https://hmaal.net/julie-2-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Julie-2-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Julie 2 Episode 1",
+      "target_url": "https://hmaal.net/julie-2-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Julie-2-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Jaghanya Dil Ke Armaan Episode 1",
+      "target_url": "https://hmaal.net/jaghanya-dil-ke-armaan-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jaghanya-Dil-Ke-Armaan-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kasak Episode 4",
+      "target_url": "https://hmaal.net/kasak-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kasak Episode 10",
+      "target_url": "https://hmaal.net/kasak-episode-10/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-10.webp",
+      "m3u8": []
+    },
     {
       "title": "Kings Man Episode 3",
       "target_url": "https://hmaal.net/kings-man-episode-3/",
@@ -121,66 +181,6 @@
       "title": "Khul Ja Sim Sim Episode 6",
       "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Khoon Bhari Maang Episode 6",
-      "target_url": "https://hmaal.net/khoon-bhari-maang-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khoon-Bhari-Maang-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Khoon Bhari Maang Episode 1",
-      "target_url": "https://hmaal.net/khoon-bhari-maang-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khoon-Bhari-Maang-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru Episode 3",
-      "target_url": "https://hmaal.net/love-guru-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru 3 Episode 2",
-      "target_url": "https://hmaal.net/love-guru-3-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru 2 Episode 1",
-      "target_url": "https://hmaal.net/love-guru-2-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-2-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru 2 Episode 3",
-      "target_url": "https://hmaal.net/love-guru-2-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-2-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru 3 Episode 1",
-      "target_url": "https://hmaal.net/love-guru-3-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru Episode 4",
-      "target_url": "https://hmaal.net/love-guru-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru 2 Episode 4",
-      "target_url": "https://hmaal.net/love-guru-2-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-2-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Love Guru 3 Episode 3",
-      "target_url": "https://hmaal.net/love-guru-3-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Love-Guru-3-Episode-3.webp",
       "m3u8": []
     },
     {
@@ -2612,7 +2612,31 @@
       "target_url": "https://hmaal.net/bidaai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
       "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 3",
+      "target_url": "https://hmaal.net/bidaai-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 6",
+      "target_url": "https://hmaal.net/bidaai-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 5",
+      "target_url": "https://hmaal.net/bidaai-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 4",
+      "target_url": "https://hmaal.net/bidaai-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
+      "m3u8": []
     }
   ],
-  "timestamp": 1776045817
+  "timestamp": 1776068261
 }
