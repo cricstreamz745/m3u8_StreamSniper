@@ -4,6 +4,54 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Hotspot Charr Charr Episode 2",
+      "target_url": "https://hmaal.net/hotspot-charr-charr-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Charr-Charr-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 5",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi Episode 2",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 4 Episode 4",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 7",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 6",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 4 Episode 1",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Charr Charr Episode 1",
+      "target_url": "https://hmaal.net/hotspot-charr-charr-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Charr-Charr-Episode-1.webp",
+      "m3u8": []
+    },
+    {
       "title": "Jaghanya Upaay Episode 3",
       "target_url": "https://hmaal.net/jaghanya-upaay-episode-3/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Jaghanya-Upaay-Episode-3.webp",
@@ -133,54 +181,6 @@
       "title": "Julie 2 Episode 1",
       "target_url": "https://hmaal.net/julie-2-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Julie-2-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Jaghanya Dil Ke Armaan Episode 1",
-      "target_url": "https://hmaal.net/jaghanya-dil-ke-armaan-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jaghanya-Dil-Ke-Armaan-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kasak Episode 4",
-      "target_url": "https://hmaal.net/kasak-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kasak Episode 10",
-      "target_url": "https://hmaal.net/kasak-episode-10/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-10.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kings Man Episode 3",
-      "target_url": "https://hmaal.net/kings-man-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kings-Man-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Khoon Bhari Maang Episode 4",
-      "target_url": "https://hmaal.net/khoon-bhari-maang-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khoon-Bhari-Maang-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Live Streaming Episode 3",
-      "target_url": "https://hmaal.net/live-streaming-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Live-Streaming-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kings Man Episode 2",
-      "target_url": "https://hmaal.net/kings-man-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kings-Man-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Khul Ja Sim Sim Episode 4",
-      "target_url": "https://hmaal.net/khul-ja-sim-sim-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Khul-Ja-Sim-Sim-Episode-4.webp",
       "m3u8": []
     },
     {
@@ -2752,5 +2752,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776129374
+  "timestamp": 1776151437
 }
