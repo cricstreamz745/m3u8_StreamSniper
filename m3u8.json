@@ -4,6 +4,30 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Gaon Ki Garmi 4 Episode 7",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dishkiyaoon Episode 2",
+      "target_url": "https://hmaal.net/dishkiyaoon-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dishkiyaoon Episode 5",
+      "target_url": "https://hmaal.net/dishkiyaoon-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Sambhal Ja Zara Episode 6",
+      "target_url": "https://hmaal.net/dil-sambhal-ja-zara-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dil-Sambhal-Ja-Zara-Episode-6.webp",
+      "m3u8": []
+    },
+    {
       "title": "Dishkiyaoon Episode 6",
       "target_url": "https://hmaal.net/dishkiyaoon-episode-6/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-6.webp",
@@ -157,30 +181,6 @@
       "title": "Gaon Ki Garmi 4 Episode 1",
       "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Hotspot Charr Charr Episode 1",
-      "target_url": "https://hmaal.net/hotspot-charr-charr-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Charr-Charr-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Jaghanya Upaay Episode 3",
-      "target_url": "https://hmaal.net/jaghanya-upaay-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jaghanya-Upaay-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kasak Episode 9",
-      "target_url": "https://hmaal.net/kasak-episode-9/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Kasak-Episode-9.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Jaghanya Dil Ke Armaan Episode 2",
-      "target_url": "https://hmaal.net/jaghanya-dil-ke-armaan-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Jaghanya-Dil-Ke-Armaan-Episode-2.webp",
       "m3u8": []
     },
     {
@@ -2926,5 +2926,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776225439
+  "timestamp": 1776244350
 }
