@@ -4,6 +4,48 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Dishkiyaoon Episode 1",
+      "target_url": "https://hmaal.net/dishkiyaoon-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dishkiyaoon Episode 4",
+      "target_url": "https://hmaal.net/dishkiyaoon-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dubey Ji And The Boys Episode 4",
+      "target_url": "https://hmaal.net/dubey-ji-and-the-boys-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dubey-Ji-And-The-Boys-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dubey Ji And The Boys Episode 5",
+      "target_url": "https://hmaal.net/dubey-ji-and-the-boys-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dubey-Ji-And-The-Boys-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Desi Kisse Woh Din Episode 2",
+      "target_url": "https://hmaal.net/desi-kisse-woh-din-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Woh-Din-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Desi Kisse Woh Din Episode 1",
+      "target_url": "https://hmaal.net/desi-kisse-woh-din-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Woh-Din-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Sambhal Ja Zara Episode 2",
+      "target_url": "https://hmaal.net/dil-sambhal-ja-zara-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dil-Sambhal-Ja-Zara-Episode-2.webp",
+      "m3u8": []
+    },
+    {
       "title": "Desi Kisse Woh Din Episode 4",
       "target_url": "https://hmaal.net/desi-kisse-woh-din-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Woh-Din-Episode-4.webp",
@@ -139,48 +181,6 @@
       "title": "Gaon Ki Garmi 2 Episode 4",
       "target_url": "https://hmaal.net/gaon-ki-garmi-2-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-2-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Gaon Ki Garmi 4 Episode 3",
-      "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Gaon Ki Garmi 3 Episode 3",
-      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Hotspot Videshi Ishq Episode 2",
-      "target_url": "https://hmaal.net/hotspot-videshi-ishq-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Videshi-Ishq-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Gaon Ki Garmi Episode 1",
-      "target_url": "https://hmaal.net/gaon-ki-garmi-episode-1/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Hotspot Raatein Rangeen Banaayein Episode 2",
-      "target_url": "https://hmaal.net/hotspot-raatein-rangeen-banaayein-episode-2-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Raatein-Rangeen-Banaayein-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Gaon Ki Garmi 3 Episode 2",
-      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Gaon Ki Garmi 3 Episode 8",
-      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-8/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-8.webp",
       "m3u8": []
     },
     {
@@ -3022,5 +3022,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776281265
+  "timestamp": 1776298158
 }
