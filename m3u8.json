@@ -1,8 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 503,
+  "total_pages": 532,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Dunali Episode 2",
+      "target_url": "https://hmaal.net/dunali-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dunali Episode 9",
+      "target_url": "https://hmaal.net/dunali-episode-9/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-Episode-9.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dunali Episode 6",
+      "target_url": "https://hmaal.net/dunali-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-Episode-6.webp",
+      "m3u8": []
+    },
     {
       "title": "Dunali Episode 3",
       "target_url": "https://hmaal.net/dunali-episode-3/",
@@ -181,6 +199,168 @@
       "title": "Gaon Ki Garmi 4 Episode 7",
       "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-7/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dishkiyaoon Episode 2",
+      "target_url": "https://hmaal.net/dishkiyaoon-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dishkiyaoon Episode 5",
+      "target_url": "https://hmaal.net/dishkiyaoon-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Sambhal Ja Zara Episode 6",
+      "target_url": "https://hmaal.net/dil-sambhal-ja-zara-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dil-Sambhal-Ja-Zara-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dishkiyaoon Episode 6",
+      "target_url": "https://hmaal.net/dishkiyaoon-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Desi Kisse Woh Din Episode 5",
+      "target_url": "https://hmaal.net/desi-kisse-woh-din-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Woh-Din-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 2 Episode 3",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-2-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-2-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 2 Episode 1",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-2-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-2-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 1",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Videshi Ishq Episode 1",
+      "target_url": "https://hmaal.net/hotspot-videshi-ishq-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Videshi-Ishq-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 2 Episode 4",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-2-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-2-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 4 Episode 3",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 3",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Videshi Ishq Episode 2",
+      "target_url": "https://hmaal.net/hotspot-videshi-ishq-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Videshi-Ishq-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi Episode 1",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Raatein Rangeen Banaayein Episode 2",
+      "target_url": "https://hmaal.net/hotspot-raatein-rangeen-banaayein-episode-2-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Raatein-Rangeen-Banaayein-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 2",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 8",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-8/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-8.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 2 Episode 5",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-2-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-2-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Raatein Rangeen Banaayein Episode 1",
+      "target_url": "https://hmaal.net/hotspot-raatein-rangeen-banaayein-episode-1-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Raatein-Rangeen-Banaayein-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 4",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 4 Episode 2",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 2 Episode 2",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-2-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-2-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Hotspot Charr Charr Episode 2",
+      "target_url": "https://hmaal.net/hotspot-charr-charr-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Hotspot-Charr-Charr-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 5",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi Episode 2",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 4 Episode 4",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-4-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-4-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Gaon Ki Garmi 3 Episode 7",
+      "target_url": "https://hmaal.net/gaon-ki-garmi-3-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaon-Ki-Garmi-3-Episode-7.webp",
       "m3u8": []
     },
     {
@@ -3014,13 +3194,7 @@
       "target_url": "https://hmaal.net/bidaai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
       "m3u8": []
-    },
-    {
-      "title": "Bidaai Episode 4",
-      "target_url": "https://hmaal.net/bidaai-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
-      "m3u8": []
     }
   ],
-  "timestamp": 1776334007
+  "timestamp": 1776350955
 }
