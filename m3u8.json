@@ -1,8 +1,56 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 557,
+  "total_pages": 565,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Damaad Ji 2 Episode 3",
+      "target_url": "https://hmaal.net/damaad-ji-2-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Damaad-Ji-2-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chachi No.1 Episode 2",
+      "target_url": "https://hmaal.net/chachi-no-1-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Chachi-No-1-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Desi Kisse Jaanch Padtaal Episode 1",
+      "target_url": "https://hmaal.net/desi-kisse-jaanch-padtaal-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Jaanch-Padtaal-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Desi Kisse Jaanch Padtaal Episode 4",
+      "target_url": "https://hmaal.net/desi-kisse-jaanch-padtaal-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Jaanch-Padtaal-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Desi Kisse Jaanch Padtaal Episode 6",
+      "target_url": "https://hmaal.net/desi-kisse-jaanch-padtaal-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Jaanch-Padtaal-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Desi Kisse Jaanch Padtaal Episode 5",
+      "target_url": "https://hmaal.net/desi-kisse-jaanch-padtaal-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Jaanch-Padtaal-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "De Dana Dan Episode 4",
+      "target_url": "https://hmaal.net/de-dana-dan-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/De-Dana-Dan-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Desi Kisse Jaanch Padtaal Episode 3",
+      "target_url": "https://hmaal.net/desi-kisse-jaanch-padtaal-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Jaanch-Padtaal-Episode-3.webp",
+      "m3u8": []
+    },
     {
       "title": "Chachi No.1 Episode 1",
       "target_url": "https://hmaal.net/chachi-no-1-episode-1/",
@@ -136,12 +184,6 @@
       "m3u8": []
     },
     {
-      "title": "Dunali Episode 5",
-      "target_url": "https://hmaal.net/dunali-episode-5/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-Episode-5.webp",
-      "m3u8": []
-    },
-    {
       "title": "Desi Kisse Khud Khushi Episode 1",
       "target_url": "https://hmaal.net/desi-kisse-khud-khushi-episode-1/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Khud-Khushi-Episode-1.webp",
@@ -181,6 +223,12 @@
       "title": "Dunali 2 Episode 3",
       "target_url": "https://hmaal.net/dunali-2-episode-3/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-2-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dunali 2 Episode 5",
+      "target_url": "https://hmaal.net/dunali-2-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-2-Episode-5.webp",
       "m3u8": []
     },
     {
@@ -355,12 +403,6 @@
       "title": "Dishkiyaoon Episode 5",
       "target_url": "https://hmaal.net/dishkiyaoon-episode-5/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Dishkiyaoon-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dil Sambhal Ja Zara Episode 6",
-      "target_url": "https://hmaal.net/dil-sambhal-ja-zara-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dil-Sambhal-Ja-Zara-Episode-6.webp",
       "m3u8": []
     },
     {
@@ -2302,6 +2344,12 @@
       "m3u8": []
     },
     {
+      "title": "Desi Kisse Na Umra Ki Seema Ho Episode 4",
+      "target_url": "https://hmaal.net/desi-kisse-na-umra-ki-seema-ho-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Na-Umra-Ki-Seema-Ho-Episode-4.webp",
+      "m3u8": []
+    },
+    {
       "title": "Jane Anjane Mein 7 Episode 2",
       "target_url": "https://hmaal.net/jane-anjane-mein-7-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2025/10/Jane-Anjane-Mein-7-Episode-2.webp",
@@ -3346,5 +3394,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776444159
+  "timestamp": 1776462507
 }
