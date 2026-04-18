@@ -4,6 +4,30 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Damaad Ji 2 Episode 1",
+      "target_url": "https://hmaal.net/damaad-ji-2-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Damaad-Ji-2-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "De Dana Dan Episode 1",
+      "target_url": "https://hmaal.net/de-dana-dan-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/De-Dana-Dan-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Damaad Ji Episode 1",
+      "target_url": "https://hmaal.net/damaad-ji-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Damaad-Ji-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Bojh Episode 1",
+      "target_url": "https://hmaal.net/dil-pe-bojh-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/09/Dil-Pe-Bojh-Episode-1.webp",
+      "m3u8": []
+    },
+    {
       "title": "Damaad Ji 2 Episode 3",
       "target_url": "https://hmaal.net/damaad-ji-2-episode-3/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Damaad-Ji-2-Episode-3.webp",
@@ -157,30 +181,6 @@
       "title": "Dunali 2 Episode 7",
       "target_url": "https://hmaal.net/dunali-2-episode-7/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-2-Episode-7.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dunali Episode 7",
-      "target_url": "https://hmaal.net/dunali-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-Episode-7.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dunali 2 Episode 4",
-      "target_url": "https://hmaal.net/dunali-2-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-2-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dunali Episode 4",
-      "target_url": "https://hmaal.net/dunali-episode-4/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Desi Kisse Khud Khushi Episode 6",
-      "target_url": "https://hmaal.net/desi-kisse-khud-khushi-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Khud-Khushi-Episode-6.webp",
       "m3u8": []
     },
     {
@@ -3394,5 +3394,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776462507
+  "timestamp": 1776479943
 }
