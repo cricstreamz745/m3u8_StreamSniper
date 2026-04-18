@@ -1,8 +1,56 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 565,
+  "total_pages": 572,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Dil Pe Bojh Episode 3",
+      "target_url": "https://hmaal.net/dil-pe-bojh-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/09/Dil-Pe-Bojh-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Yamma Yamma Episode 6",
+      "target_url": "https://hmaal.net/yamma-yamma-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/08/Yamma-Yamma-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Payal Episode 5",
+      "target_url": "https://hmaal.net/payal-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/09/Payal-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Yamma Yamma Episode 7",
+      "target_url": "https://hmaal.net/yamma-yamma-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/08/Yamma-Yamma-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Payal Episode 4",
+      "target_url": "https://hmaal.net/payal-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/09/Payal-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Payal Episode 6",
+      "target_url": "https://hmaal.net/payal-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/09/Payal-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Yamma Yamma Episode 8",
+      "target_url": "https://hmaal.net/yamma-yamma-episode-8/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/08/Yamma-Yamma-Episode-8.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kaanta Laga Episode 3",
+      "target_url": "https://hmaal.net/kaanta-laga-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2025/09/Kaanta-Laga-Episode-3.webp",
+      "m3u8": []
+    },
     {
       "title": "Damaad Ji 2 Episode 1",
       "target_url": "https://hmaal.net/damaad-ji-2-episode-1/",
@@ -133,54 +181,6 @@
       "title": "Damaad Ji Episode 2",
       "target_url": "https://hmaal.net/damaad-ji-episode-2/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Damaad-Ji-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "De Dana Dan Episode 2",
-      "target_url": "https://hmaal.net/de-dana-dan-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/De-Dana-Dan-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "De Dana Dan Episode 6",
-      "target_url": "https://hmaal.net/de-dana-dan-episode-6/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/De-Dana-Dan-Episode-6.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Desi Kisse Jaanch Padtaal Episode 2",
-      "target_url": "https://hmaal.net/desi-kisse-jaanch-padtaal-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Jaanch-Padtaal-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Desi Kisse Khud Khushi Episode 3",
-      "target_url": "https://hmaal.net/desi-kisse-khud-khushi-episode-3/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Desi-Kisse-Khud-Khushi-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dunali Episode 8",
-      "target_url": "https://hmaal.net/dunali-episode-8/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-Episode-8.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dunali 2 Episode 2",
-      "target_url": "https://hmaal.net/dunali-2-episode-2/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-2-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dunali 2 Episode 9",
-      "target_url": "https://hmaal.net/dunali-2-episode-9/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-2-Episode-9.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dunali 2 Episode 7",
-      "target_url": "https://hmaal.net/dunali-2-episode-7/",
-      "image": "https://hmaal.net/wp-content/uploads/2024/11/Dunali-2-Episode-7.webp",
       "m3u8": []
     },
     {
@@ -3392,7 +3392,49 @@
       "target_url": "https://hmaal.net/bidaai-episode-4/",
       "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
       "m3u8": []
+    },
+    {
+      "title": "Gaachi Episode 7",
+      "target_url": "https://hmaal.net/gaachi-episode-7/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Gaachi-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 1",
+      "target_url": "https://hmaal.net/bidaai-episode-1/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 2",
+      "target_url": "https://hmaal.net/bidaai-episode-2/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 3",
+      "target_url": "https://hmaal.net/bidaai-episode-3/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 6",
+      "target_url": "https://hmaal.net/bidaai-episode-6/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 5",
+      "target_url": "https://hmaal.net/bidaai-episode-5/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Bidaai Episode 4",
+      "target_url": "https://hmaal.net/bidaai-episode-4/",
+      "image": "https://hmaal.net/wp-content/uploads/2024/11/Bidaai-Episode-4.webp",
+      "m3u8": []
     }
   ],
-  "timestamp": 1776479943
+  "timestamp": 1776499956
 }
