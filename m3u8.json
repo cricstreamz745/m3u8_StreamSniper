@@ -4,6 +4,42 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Yeh Kaisa Rishta Episode 1",
+      "target_url": "https://hmaal.com.co/yeh-kaisa-rishta-episode-1/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Yeh Kaisa Rishta Episode 2",
+      "target_url": "https://hmaal.com.co/yeh-kaisa-rishta-episode-2/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Aah Se Aaha Tak Episode 6",
+      "target_url": "https://hmaal.com.co/aah-se-aaha-tak-episode-6/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Aah-Se-Aaha-Tak-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Yamma Yamma Episode 4",
+      "target_url": "https://hmaal.com.co/yamma-yamma-episode-4/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Yamma-Yamma-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Dil Pe Bojh Episode 6",
+      "target_url": "https://hmaal.com.co/dil-pe-bojh-episode-6/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Dil-Pe-Bojh-Episode-6-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Yamma Yamma Episode 1",
+      "target_url": "https://hmaal.com.co/yamma-yamma-episode-1/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Yamma-Yamma-Episode-1.webp",
+      "m3u8": []
+    },
+    {
       "title": "Kaanta Laga Episode 5",
       "target_url": "https://hmaal.com.co/kaanta-laga-episode-5/",
       "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Kaanta-Laga-Episode-5.webp",
@@ -145,42 +181,6 @@
       "title": "De Dana Dan Episode 1",
       "target_url": "https://hmaal.com.co/de-dana-dan-episode-1/",
       "image": "https://hmaal.com.co/wp-content/uploads/2024/11/De-Dana-Dan-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Damaad Ji Episode 1",
-      "target_url": "https://hmaal.com.co/damaad-ji-episode-1/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Damaad-Ji-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Dil Pe Bojh Episode 1",
-      "target_url": "https://hmaal.com.co/dil-pe-bojh-episode-1/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Dil-Pe-Bojh-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Damaad Ji 2 Episode 3",
-      "target_url": "https://hmaal.com.co/damaad-ji-2-episode-3/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Damaad-Ji-2-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Chachi No.1 Episode 2",
-      "target_url": "https://hmaal.com.co/chachi-no-1-episode-2/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Chachi-No-1-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Desi Kisse Jaanch Padtaal Episode 1",
-      "target_url": "https://hmaal.com.co/desi-kisse-jaanch-padtaal-episode-1/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Desi-Kisse-Jaanch-Padtaal-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Desi Kisse Jaanch Padtaal Episode 4",
-      "target_url": "https://hmaal.com.co/desi-kisse-jaanch-padtaal-episode-4/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Desi-Kisse-Jaanch-Padtaal-Episode-4.webp",
       "m3u8": []
     },
     {
@@ -3478,5 +3478,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776554684
+  "timestamp": 1776573619
 }
