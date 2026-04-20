@@ -4,6 +4,36 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Kaanta Laga Episode 6",
+      "target_url": "https://hmaal.com.co/kaanta-laga-episode-6/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Kaanta-Laga-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chidiya Episode 3",
+      "target_url": "https://hmaal.com.co/chidiya-episode-3/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Chidiya-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chidiya Episode 7",
+      "target_url": "https://hmaal.com.co/chidiya-episode-7/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Chidiya-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chachi No 1 Episode 3",
+      "target_url": "https://hmaal.com.co/chachi-no-1-episode-3-2/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Chachi-No-1-Episode-3-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Yeh Kaisa Rishta Episode 4",
+      "target_url": "https://hmaal.com.co/yeh-kaisa-rishta-episode-4/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-4.webp",
+      "m3u8": []
+    },
+    {
       "title": "Chachi No 1 Episode 1",
       "target_url": "https://hmaal.com.co/chachi-no-1-episode-1-2/",
       "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Chachi-No-1-Episode-1-1.webp",
@@ -151,36 +181,6 @@
       "title": "Yamma Yamma Episode 2",
       "target_url": "https://hmaal.com.co/yamma-yamma-episode-2/",
       "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Yamma-Yamma-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Yamma Yamma Episode 5",
-      "target_url": "https://hmaal.com.co/yamma-yamma-episode-5/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Yamma-Yamma-Episode-5.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Kaanta Laga Episode 4",
-      "target_url": "https://hmaal.com.co/kaanta-laga-episode-4/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Kaanta-Laga-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Payal Episode 2",
-      "target_url": "https://hmaal.com.co/payal-episode-2/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Payal-Episode-2.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Payal Episode 3",
-      "target_url": "https://hmaal.com.co/payal-episode-3/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Payal-Episode-3.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Payal Episode 1",
-      "target_url": "https://hmaal.com.co/payal-episode-1/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Payal-Episode-1.webp",
       "m3u8": []
     },
     {
@@ -3652,5 +3652,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776634247
+  "timestamp": 1776653765
 }
