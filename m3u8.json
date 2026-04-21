@@ -4,6 +4,24 @@
   "total_m3u8": 0,
   "results": [
     {
+      "title": "Woodpecker Episode 8",
+      "target_url": "https://hmaal.com.co/woodpecker-episode-8/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Woodpecker-Episode-8.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Zaroorat 2 Episode 2",
+      "target_url": "https://hmaal.com.co/zaroorat-2-episode-2/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Zaroorat-2-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Zaroorat 2 Episode 1",
+      "target_url": "https://hmaal.com.co/zaroorat-2-episode-1/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Zaroorat-2-Episode-1.webp",
+      "m3u8": []
+    },
+    {
       "title": "Walkman Episode 2",
       "target_url": "https://hmaal.com.co/walkman-episode-2/",
       "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Walkman-Episode-2.webp",
@@ -163,24 +181,6 @@
       "title": "Yeh Kaisa Rishta Episode 4",
       "target_url": "https://hmaal.com.co/yeh-kaisa-rishta-episode-4/",
       "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Yeh-Kaisa-Rishta-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Chachi No 1 Episode 1",
-      "target_url": "https://hmaal.com.co/chachi-no-1-episode-1-2/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Chachi-No-1-Episode-1-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Aah Se Aaha Tak Episode 1",
-      "target_url": "https://hmaal.com.co/aah-se-aaha-tak-episode-1/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2025/09/Aah-Se-Aaha-Tak-Episode-1.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Walkman Episode 1",
-      "target_url": "https://hmaal.com.co/walkman-episode-1/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Walkman-Episode-1.webp",
       "m3u8": []
     },
     {
@@ -3790,5 +3790,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776727621
+  "timestamp": 1776748165
 }
