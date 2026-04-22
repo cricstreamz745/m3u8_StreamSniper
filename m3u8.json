@@ -1,8 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 665,
+  "total_pages": 668,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Watchman Episode 9",
+      "target_url": "https://hmaal.com.co/watchman-episode-9/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Watchman-Episode-9.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Khalish Episode 8",
+      "target_url": "https://hmaal.com.co/khalish-episode-8/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Khalish-Episode-8.webp",
+      "m3u8": []
+    },
+    {
+      "title": "The Last Show Episode 6",
+      "target_url": "https://hmaal.com.co/the-last-show-episode-6/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/The-Last-Show-Episode-6.webp",
+      "m3u8": []
+    },
     {
       "title": "Watchman Episode 7",
       "target_url": "https://hmaal.com.co/watchman-episode-7/",
@@ -3994,5 +4012,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776809849
+  "timestamp": 1776830157
 }
