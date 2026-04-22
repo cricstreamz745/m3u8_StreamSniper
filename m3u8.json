@@ -1,8 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 681,
+  "total_pages": 684,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Khatak Episode 3",
+      "target_url": "https://hmaal.com.co/khatak-episode-3/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Khatak-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Khatak Episode 1",
+      "target_url": "https://hmaal.com.co/khatak-episode-1/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Khatak-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chhu Le Zara Episode 1",
+      "target_url": "https://hmaal.com.co/chhu-le-zara-episode-1/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-1.webp",
+      "m3u8": []
+    },
     {
       "title": "Wafa Episode 5",
       "target_url": "https://hmaal.com.co/wafa-episode-5/",
@@ -4090,5 +4108,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776852106
+  "timestamp": 1776880304
 }
