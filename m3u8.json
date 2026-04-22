@@ -1,8 +1,86 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 668,
+  "total_pages": 681,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Wafa Episode 5",
+      "target_url": "https://hmaal.com.co/wafa-episode-5/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Wafa-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Khatak Episode 2",
+      "target_url": "https://hmaal.com.co/khatak-episode-2/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Khatak-Episode-2.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chhu Le Zara Episode 4",
+      "target_url": "https://hmaal.com.co/chhu-le-zara-episode-4/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Main Yahan Tu Wahan Episode 4",
+      "target_url": "https://hmaal.com.co/main-yahan-tu-wahan-episode-4/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Main-Yahan-Tu-Wahan-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Khatak Episode 4",
+      "target_url": "https://hmaal.com.co/khatak-episode-4/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Khatak-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Wafa Episode 7",
+      "target_url": "https://hmaal.com.co/wafa-episode-7/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Wafa-Episode-7.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Main Yahan Tu Wahan Episode 3",
+      "target_url": "https://hmaal.com.co/main-yahan-tu-wahan-episode-3/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Main-Yahan-Tu-Wahan-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Main Yahan Tu Wahan Episode 1",
+      "target_url": "https://hmaal.com.co/main-yahan-tu-wahan-episode-1/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Main-Yahan-Tu-Wahan-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Main Yahan Tu Wahan Episode 5",
+      "target_url": "https://hmaal.com.co/main-yahan-tu-wahan-episode-5/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Main-Yahan-Tu-Wahan-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chhu Le Zara Episode 6",
+      "target_url": "https://hmaal.com.co/chhu-le-zara-episode-6/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Wafa Episode 3",
+      "target_url": "https://hmaal.com.co/wafa-episode-3/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Wafa-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chhu Le Zara Episode 3",
+      "target_url": "https://hmaal.com.co/chhu-le-zara-episode-3/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Chhu Le Zara Episode 5",
+      "target_url": "https://hmaal.com.co/chhu-le-zara-episode-5/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2025/08/Chhu-Le-Zara-Episode-5.webp",
+      "m3u8": []
+    },
     {
       "title": "Watchman Episode 9",
       "target_url": "https://hmaal.com.co/watchman-episode-9/",
@@ -4012,5 +4090,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776830157
+  "timestamp": 1776852106
 }
