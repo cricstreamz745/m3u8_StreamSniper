@@ -1,8 +1,32 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 694,
+  "total_pages": 698,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Main Yahan Tu Wahan Episode 9",
+      "target_url": "https://hmaal.com.co/main-yahan-tu-wahan-episode-9/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Main-Yahan-Tu-Wahan-Episode-9.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Laal Lihaaf Episode 4",
+      "target_url": "https://hmaal.com.co/laal-lihaaf-episode-4/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Laal-Lihaaf-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kasturi Episode 4",
+      "target_url": "https://hmaal.com.co/kasturi-episode-4/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Kasturi-Episode-4.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Main Yahan Tu Wahan Episode 8",
+      "target_url": "https://hmaal.com.co/main-yahan-tu-wahan-episode-8/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Main-Yahan-Tu-Wahan-Episode-8.webp",
+      "m3u8": []
+    },
     {
       "title": "Kasturi Episode 2",
       "target_url": "https://hmaal.com.co/kasturi-episode-2/",
@@ -4168,5 +4192,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776908402
+  "timestamp": 1776939018
 }
