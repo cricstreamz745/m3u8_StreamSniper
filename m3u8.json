@@ -1,8 +1,32 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 707,
+  "total_pages": 709,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Kasturi Episode 5",
+      "target_url": "https://hmaal.com.co/kasturi-episode-5/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Kasturi-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Laal Lihaaf Episode 6",
+      "target_url": "https://hmaal.com.co/laal-lihaaf-episode-6/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Laal-Lihaaf-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Main Yahan Tu Wahan Episode 6",
+      "target_url": "https://hmaal.com.co/main-yahan-tu-wahan-episode-6/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Main-Yahan-Tu-Wahan-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Laal Lihaaf Episode 1",
+      "target_url": "https://hmaal.com.co/laal-lihaaf-episode-1/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Laal-Lihaaf-Episode-1.webp",
+      "m3u8": []
+    },
     {
       "title": "Kasturi Episode 3",
       "target_url": "https://hmaal.com.co/kasturi-episode-3/",
@@ -169,18 +193,6 @@
       "title": "Main Yahan Tu Wahan Episode 4",
       "target_url": "https://hmaal.com.co/main-yahan-tu-wahan-episode-4/",
       "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Main-Yahan-Tu-Wahan-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Khatak Episode 4",
-      "target_url": "https://hmaal.com.co/khatak-episode-4/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Khatak-Episode-4.webp",
-      "m3u8": []
-    },
-    {
-      "title": "Wafa Episode 7",
-      "target_url": "https://hmaal.com.co/wafa-episode-7/",
-      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Wafa-Episode-7.webp",
       "m3u8": []
     },
     {
@@ -4246,5 +4258,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1776987419
+  "timestamp": 1777013913
 }
