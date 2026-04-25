@@ -1,8 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 714,
+  "total_pages": 718,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Kissa Episode 5",
+      "target_url": "https://hmaal.com.co/kissa-episode-5/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Kissa-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Machhli Episode 3",
+      "target_url": "https://hmaal.com.co/machhli-episode-3/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Machhli-Episode-3.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Kissa Episode 3",
+      "target_url": "https://hmaal.com.co/kissa-episode-3/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Kissa-Episode-3.webp",
+      "m3u8": []
+    },
     {
       "title": "Machhli Episode 6",
       "target_url": "https://hmaal.com.co/machhli-episode-6/",
@@ -157,6 +175,12 @@
       "title": "Wafa Episode 1",
       "target_url": "https://hmaal.com.co/wafa-episode-1/",
       "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Wafa-Episode-1.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Watchman Episode 2",
+      "target_url": "https://hmaal.com.co/watchman-episode-2/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Watchman-Episode-2.webp",
       "m3u8": []
     },
     {
@@ -4288,5 +4312,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1777134079
+  "timestamp": 1777155776
 }
