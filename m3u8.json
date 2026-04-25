@@ -1,8 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/cricstreamz745/Hit-Maal/refs/heads/main/hitmall.json",
-  "total_pages": 711,
+  "total_pages": 714,
   "total_m3u8": 0,
   "results": [
+    {
+      "title": "Machhli Episode 6",
+      "target_url": "https://hmaal.com.co/machhli-episode-6/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Machhli-Episode-6.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Machhli Episode 5",
+      "target_url": "https://hmaal.com.co/machhli-episode-5/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Machhli-Episode-5.webp",
+      "m3u8": []
+    },
+    {
+      "title": "Machhli Episode 1",
+      "target_url": "https://hmaal.com.co/machhli-episode-1/",
+      "image": "https://hmaal.com.co/wp-content/uploads/2024/11/Machhli-Episode-1.webp",
+      "m3u8": []
+    },
     {
       "title": "Kissa Episode 1",
       "target_url": "https://hmaal.com.co/kissa-episode-1/",
@@ -4270,5 +4288,5 @@
       "m3u8": []
     }
   ],
-  "timestamp": 1777111472
+  "timestamp": 1777134079
 }
